@@ -8,6 +8,7 @@ Author - Uday Sharma
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/udaysharma24/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -15,4 +16,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

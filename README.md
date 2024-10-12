@@ -8,6 +8,7 @@ Author - Uday Sharma
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udaysharma24/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -21,4 +22,12 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ Author - Uday Sharma
 | [0001-two-sum](https://github.com/udaysharma24/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udaysharma24/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/udaysharma24/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -28,6 +29,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,4 +38,13 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/udaysharma24/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

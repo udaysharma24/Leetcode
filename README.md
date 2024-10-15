@@ -21,6 +21,7 @@ Author - Uday Sharma
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/udaysharma24/Leetcode/tree/master/0050-powx-n) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
@@ -48,4 +49,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/udaysharma24/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

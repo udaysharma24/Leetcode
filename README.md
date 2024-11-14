@@ -23,6 +23,7 @@ Author - Uday Sharma
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/udaysharma24/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/udaysharma24/Leetcode/tree/master/0050-powx-n) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation

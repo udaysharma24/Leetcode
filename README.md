@@ -16,6 +16,7 @@ Author - Uday Sharma
 | [1241-decompress-run-length-encoded-list](https://github.com/udaysharma24/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udaysharma24/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/udaysharma24/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/udaysharma24/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |

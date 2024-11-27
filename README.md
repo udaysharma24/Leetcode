@@ -15,6 +15,7 @@ Author - Uday Sharma
 | [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0283-move-zeroes) |
 | [1241-decompress-run-length-encoded-list](https://github.com/udaysharma24/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udaysharma24/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -31,12 +32,14 @@ Author - Uday Sharma
 | [0009-palindrome-number](https://github.com/udaysharma24/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/udaysharma24/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/udaysharma24/Leetcode/tree/master/1013-fibonacci-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,10 +56,12 @@ Author - Uday Sharma
 | ------- |
 | [0001-two-sum](https://github.com/udaysharma24/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -76,4 +81,8 @@ Author - Uday Sharma
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

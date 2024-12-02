@@ -11,6 +11,7 @@ Author - Uday Sharma
 | [0001-two-sum](https://github.com/udaysharma24/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/udaysharma24/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaysharma24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
@@ -61,6 +62,7 @@ Author - Uday Sharma
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/udaysharma24/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 ## Counting
@@ -80,6 +82,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/udaysharma24/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search

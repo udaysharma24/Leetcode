@@ -24,6 +24,7 @@ Author - Uday Sharma
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/udaysharma24/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1241-decompress-run-length-encoded-list](https://github.com/udaysharma24/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udaysharma24/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -68,6 +69,7 @@ Author - Uday Sharma
 | [0128-longest-consecutive-sequence](https://github.com/udaysharma24/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -115,4 +117,8 @@ Author - Uday Sharma
 | [0048-rotate-image](https://github.com/udaysharma24/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

@@ -29,19 +29,17 @@ public:
                     len+=(2*um[*it]);
                 }
             }
-            it++;
-        }
-        it= s.begin();
-        while(it!= s.end())
-        {
-            string rev= *it;
-            reverse(rev.begin(), rev.end());
-            if(rev==*it)
+            else
             {
-                it++;
-                continue;
+                string rev= *it;
+                reverse(rev.begin(), rev.end());
+                if(rev==*it)
+                {
+                    it++;
+                    continue;
+                }
+                len+=(2*(min(um[*it], um[rev])));
             }
-            len+=(2*(min(um[*it], um[rev])));
             it++;
         }
         return len;

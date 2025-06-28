@@ -73,6 +73,7 @@ Author - Uday Sharma
 | [0048-rotate-image](https://github.com/udaysharma24/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/udaysharma24/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/udaysharma24/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -82,6 +83,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
@@ -143,6 +145,7 @@ Author - Uday Sharma
 | [0025-reverse-nodes-in-k-group](https://github.com/udaysharma24/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/udaysharma24/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/udaysharma24/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization

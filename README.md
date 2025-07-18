@@ -261,11 +261,13 @@ Author - Uday Sharma
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/udaysharma24/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/udaysharma24/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
@@ -301,4 +303,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/udaysharma24/Leetcode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/udaysharma24/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

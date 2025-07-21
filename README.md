@@ -23,6 +23,7 @@ Author - Uday Sharma
 | [0073-set-matrix-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/udaysharma24/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/udaysharma24/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/udaysharma24/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/udaysharma24/Leetcode/tree/master/0118-pascals-triangle) |
@@ -84,6 +85,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/udaysharma24/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/udaysharma24/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
@@ -307,4 +309,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/udaysharma24/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/udaysharma24/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

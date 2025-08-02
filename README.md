@@ -52,6 +52,7 @@ Author - Uday Sharma
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/udaysharma24/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1755-defuse-the-bomb](https://github.com/udaysharma24/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/udaysharma24/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -282,6 +283,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaysharma24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1755-defuse-the-bomb](https://github.com/udaysharma24/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |

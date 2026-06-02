@@ -70,6 +70,7 @@ Author - Uday Sharma
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/udaysharma24/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Author - Uday Sharma
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Author - Uday Sharma
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0229-majority-element-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
 ## Recursion
 |  |
 | ------- |
@@ -278,6 +281,7 @@ Author - Uday Sharma
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
 ## Stack
 |  |
 | ------- |

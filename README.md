@@ -51,6 +51,7 @@ Author - Uday Sharma
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/udaysharma24/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1241-decompress-run-length-encoded-list](https://github.com/udaysharma24/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/udaysharma24/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1470-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udaysharma24/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |

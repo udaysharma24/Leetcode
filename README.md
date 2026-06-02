@@ -70,6 +70,7 @@ Author - Uday Sharma
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/udaysharma24/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/udaysharma24/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
 ## Math
 |  |
@@ -267,6 +268,7 @@ Author - Uday Sharma
 | [0455-assign-cookies](https://github.com/udaysharma24/Leetcode/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/udaysharma24/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## String
 |  |
 | ------- |

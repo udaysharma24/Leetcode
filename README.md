@@ -116,6 +116,7 @@ Author - Uday Sharma
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/udaysharma24/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/udaysharma24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/udaysharma24/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -188,6 +189,7 @@ Author - Uday Sharma
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/udaysharma24/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/udaysharma24/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/udaysharma24/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/udaysharma24/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -290,6 +292,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaysharma24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/udaysharma24/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/udaysharma24/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/udaysharma24/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/0020-valid-parentheses) |

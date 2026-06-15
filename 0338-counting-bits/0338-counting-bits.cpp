@@ -18,7 +18,8 @@ public:
         for(int i=0; i<=n; i++){
             if(dp[i]!=-1)
                 ans.push_back(dp[i]);
-            ans.push_back(bits(i));
+            else
+                ans.push_back(bits(i));
         }
         return ans;
     }

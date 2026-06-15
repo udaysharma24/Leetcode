@@ -1,7 +1,7 @@
 class Solution {
 public:
+    vector<vector<int>> dp = vector<vector<int>>(34);
     vector<int> getRow(int rowIndex) {
-        vector<vector<int>> dp(rowIndex+1);
         if(!dp[rowIndex].empty())
             return dp[rowIndex];
         dp[rowIndex].push_back(1);

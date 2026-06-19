@@ -92,6 +92,7 @@ Author - Uday Sharma
 | [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/udaysharma24/Leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/udaysharma24/Leetcode/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/udaysharma24/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/udaysharma24/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -130,6 +131,7 @@ Author - Uday Sharma
 | [0410-split-array-largest-sum](https://github.com/udaysharma24/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/udaysharma24/Leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/udaysharma24/Leetcode/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -393,4 +395,12 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/udaysharma24/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/udaysharma24/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

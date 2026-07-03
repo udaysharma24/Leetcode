@@ -77,6 +77,7 @@ Author - Uday Sharma
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/udaysharma24/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/udaysharma24/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -158,6 +159,7 @@ Author - Uday Sharma
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/udaysharma24/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
@@ -175,6 +177,7 @@ Author - Uday Sharma
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/udaysharma24/Leetcode/tree/master/0455-assign-cookies) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
+| [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/udaysharma24/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/udaysharma24/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Counting

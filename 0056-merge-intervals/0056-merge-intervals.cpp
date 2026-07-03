@@ -1,50 +1,33 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(),intervals.end());
+        sort(intervals.begin(),intervals.end(),[](vector<int> a, vector<int> b){
+            if(a[0]==b[0])
+                return a[1]<b[1];
+            return a[0]<b[0];
+        });
         vector<vector<int>> ans;
-        bool flag=false;
-        vector<int> v;
-        int mx=0;
-        for(int i=0; i<intervals.size()-1; i++)
-        {
-            if(max(mx,intervals[i][1])>=intervals[i+1][0])
-            {
-                if(flag==false)
-                    v.push_back(intervals[i][0]);
-                flag=true;
-                cout<<"Hi1 ";
-                mx=max(mx,intervals[i][1]);
+        int start=intervals[0][0];
+        int end=intervals[0][1];
+        for(int i=1; i<intervals.size(); i++){
+            if(end>=intervals[i][0]){
+                end=max(intervals[i][1], end);
             }
-            else if(flag==true)
-            {
-                v.push_back(max(intervals[i][1],mx));
-                ans.push_back(v);
-                flag=false;
-                v.clear();
-                mx=0;
-                cout<<"Hi2 ";
-            }
-            else if(flag==false)
-            {
-                v.push_back(intervals[i][0]);
-                v.push_back(intervals[i][1]);
-                ans.push_back(v);
-                cout<<"Hi3 ";
-                v.clear();
+            else{
+                vector<int> new1;
+                new1.push_back(start);
+                new1.push_back(end);
+                ans.push_back(new1);
+                new1.clear();
+                start=intervals[i][0];
+                end=intervals[i][1];
             }
         }
-        if(flag==true)
-        {
-            v.push_back(max(mx,intervals[intervals.size()-1][1]));
-            ans.push_back(v);
-        }
-        else
-        {
-            v.push_back(intervals[intervals.size()-1][0]);
-            v.push_back(intervals[intervals.size()-1][1]);
-            ans.push_back(v);
-        }
+        vector<int> new1;
+        new1.push_back(start);
+        new1.push_back(end);
+        ans.push_back(new1);
+        new1.clear();
         return ans;
     }
 };

@@ -71,6 +71,7 @@ Author - Uday Sharma
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/udaysharma24/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -285,6 +286,7 @@ Author - Uday Sharma
 | [0221-maximal-square](https://github.com/udaysharma24/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Prefix Sum
 |  |
@@ -293,6 +295,7 @@ Author - Uday Sharma
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/udaysharma24/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Indexed Tree
 |  |

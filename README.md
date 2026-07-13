@@ -433,6 +433,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/udaysharma24/Leetcode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/udaysharma24/Leetcode/tree/master/1291-sequential-digits) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/udaysharma24/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Number Theory
 |  |

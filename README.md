@@ -452,6 +452,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Brainteaser
@@ -470,6 +471,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
 ## Heap (Priority Queue)
@@ -480,10 +482,12 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->

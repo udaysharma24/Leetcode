@@ -53,6 +53,7 @@ Author - Uday Sharma
 | [0746-min-cost-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/udaysharma24/Leetcode/tree/master/0792-binary-search) |
 | [0848-shifting-letters](https://github.com/udaysharma24/Leetcode/tree/master/0848-shifting-letters) |
+| [0875-koko-eating-bananas](https://github.com/udaysharma24/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-koko-eating-bananas](https://github.com/udaysharma24/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -279,6 +280,7 @@ Author - Uday Sharma
 | [0493-reverse-pairs](https://github.com/udaysharma24/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/udaysharma24/Leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/udaysharma24/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-koko-eating-bananas](https://github.com/udaysharma24/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |

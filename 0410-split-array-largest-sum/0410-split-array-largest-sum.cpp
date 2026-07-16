@@ -1,56 +1,32 @@
 class Solution {
 public:
-    int divcount(vector<int> nums, int arraysize)
-    {
-        int cnt=1;
-        int size=0;
-        for(int i=0; i<nums.size(); i++)
-        {
-            if(size+nums[i]<=arraysize)
-                size+=nums[i];
-            else
-            {
-                cnt++;
-                size=nums[i];
+    bool doable(vector<int> nums, int max, int cuts){
+        int acc=0;
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i]>max)
+                return false;
+            else if(acc+nums[i]<=max)
+                acc+=nums[i];
+            else{
+                cuts--;
+                acc=nums[i];
+                if(cuts<0)
+                    return false;
             }
         }
-        return cnt;
+        return true;
     }
     int splitArray(vector<int>& nums, int k) {
+        int high=accumulate(nums.begin(),nums.end(),0);
         int low=*max_element(nums.begin(),nums.end());
-        int high=accumulate(nums.begin()+k-1,nums.end(),0);
-        int mid=(low+high)/2;
-        if(nums.size()==k)
-            return *max_element(nums.begin(),nums.end());
-        else if(k==1)
-            return accumulate(nums.begin(),nums.end(),0);
-        int ans=-1;
-        if(low<=high)
-        {
-            while(low<=high)
-            {
-                int divcnt=divcount(nums,mid);
-                if(divcnt<k)
-                {
-                    ans=mid;
-                    high=mid-1;
-                    mid=(low+high)/2;
-                }
-                else if(divcnt==k)
-                {
-                    ans=mid;
-                    high=mid-1;
-                    mid=(low+high)/2;
-                }
-                else if(divcnt>k)
-                {
-                    low=mid+1;
-                    mid=(low+high)/2;
-                }
-            }
-            return ans;
+        int cuts=nums.size()-1;
+        while(low<high){
+            int mid=low+(high-low)/2;
+            if(doable(nums,mid,k-1))
+                high=mid;
+            else
+                low=mid+1;
         }
-        else
-            return low;
+        return low;
     }
 };

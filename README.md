@@ -106,6 +106,7 @@ Author - Uday Sharma
 | [0029-divide-two-integers](https://github.com/udaysharma24/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/udaysharma24/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/udaysharma24/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/udaysharma24/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
@@ -151,6 +152,7 @@ Author - Uday Sharma
 | [0005-longest-palindromic-substring](https://github.com/udaysharma24/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/udaysharma24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/udaysharma24/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaysharma24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -239,6 +241,7 @@ Author - Uday Sharma
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/udaysharma24/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |

@@ -20,10 +20,10 @@ public:
         int high=accumulate(nums.begin(),nums.end(),0);
         int low=*max_element(nums.begin(),nums.end());
         int cuts=nums.size()-1;
-        while(low<high){
+        while(low<=high){
             int mid=low+(high-low)/2;
             if(doable(nums,mid,k-1))
-                high=mid;
+                high=mid-1;
             else
                 low=mid+1;
         }

@@ -70,6 +70,7 @@ Author - Uday Sharma
 | [1646-kth-missing-positive-number](https://github.com/udaysharma24/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/udaysharma24/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/udaysharma24/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/udaysharma24/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1773-count-items-matching-a-rule](https://github.com/udaysharma24/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/udaysharma24/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -292,6 +293,7 @@ Author - Uday Sharma
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/udaysharma24/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/udaysharma24/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/udaysharma24/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysharma24/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |

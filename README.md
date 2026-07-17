@@ -26,6 +26,7 @@ Author - Uday Sharma
 | [0074-search-a-2d-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/udaysharma24/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/udaysharma24/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/udaysharma24/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/udaysharma24/Leetcode/tree/master/0118-pascals-triangle) |
@@ -323,6 +324,7 @@ Author - Uday Sharma
 | [0054-spiral-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/udaysharma24/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
@@ -379,6 +381,7 @@ Author - Uday Sharma
 | [0022-generate-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/udaysharma24/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/udaysharma24/Leetcode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/udaysharma24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/udaysharma24/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/udaysharma24/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -466,6 +469,7 @@ Author - Uday Sharma
 | ------- |
 | [0022-generate-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/udaysharma24/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Enumeration
 |  |
@@ -503,6 +507,7 @@ Author - Uday Sharma
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |

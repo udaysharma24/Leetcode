@@ -371,6 +371,7 @@ Author - Uday Sharma
 | [0410-split-array-largest-sum](https://github.com/udaysharma24/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/udaysharma24/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/udaysharma24/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -396,6 +397,7 @@ Author - Uday Sharma
 | [0848-shifting-letters](https://github.com/udaysharma24/Leetcode/tree/master/0848-shifting-letters) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1773-count-items-matching-a-rule](https://github.com/udaysharma24/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -415,6 +417,7 @@ Author - Uday Sharma
 | [0232-implement-queue-using-stacks](https://github.com/udaysharma24/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -534,4 +537,8 @@ Author - Uday Sharma
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

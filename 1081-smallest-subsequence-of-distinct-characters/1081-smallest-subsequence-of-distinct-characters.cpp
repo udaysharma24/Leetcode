@@ -11,8 +11,8 @@ public:
             if (visited[s[i]-'a'])
                 continue;
             if(!ans.empty()){
-                while(ans[ans.length()-1]>s[i] && i<m[ans[ans.length()-1]]){
-                    visited[ans[ans.length()-1]-'a']=false;
+                while(ans.back()>s[i] && i<m[ans.back()]){
+                    visited[ans.back()-'a']=false;
                     ans.pop_back();
                     if(ans.empty())
                         break;

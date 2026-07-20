@@ -8,8 +8,8 @@ public:
             um[nums[i]]++;
             mx=max(mx,um[nums[i]]);
         }
-        map<int,int> firstindex;
-        map<int,int> lastindex;
+        unordered_map<int,int> firstindex;
+        unordered_map<int,int> lastindex;
         for(int i=0; i<nums.size(); i++){
             if(um[nums[i]]==mx)
                 maxnums.insert(nums[i]);

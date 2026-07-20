@@ -62,6 +62,7 @@ Author - Uday Sharma
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1241-decompress-run-length-encoded-list](https://github.com/udaysharma24/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1260-shift-2d-grid](https://github.com/udaysharma24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/udaysharma24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/udaysharma24/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -313,6 +314,7 @@ Author - Uday Sharma
 | [0054-spiral-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/udaysharma24/Leetcode/tree/master/0068-text-justification) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/udaysharma24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3614-process-string-with-special-operations-ii](https://github.com/udaysharma24/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -332,6 +334,7 @@ Author - Uday Sharma
 | [0221-maximal-square](https://github.com/udaysharma24/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1260-shift-2d-grid](https://github.com/udaysharma24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |

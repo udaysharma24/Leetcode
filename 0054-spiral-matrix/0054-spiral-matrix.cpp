@@ -1,40 +1,40 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        vector<int> a;
-        int top=0;
-        int bottom=matrix.size()-1;
-        int left=0;
-        int right=matrix[0].size()-1;
-        while(top<=bottom && left<=right)
-        {
-            for(int j=left; j<=right; j++)
-            {
-                a.push_back(matrix[top][j]);
+        int m=matrix.size();
+        int n=matrix[0].size();
+        vector<int> ans;
+        int colstart=0;
+        int rowstart=0;
+        vector<vector<bool>> visited(m, vector<bool>(n,false));
+        while(rowstart<m && colstart<n){
+            for(int j=colstart; j<=n-colstart-1; j++){
+                ans.push_back(matrix[rowstart][j]);
+                visited[rowstart][j]=true;
             }
-            top++;
-            for(int i=top; i<=bottom; i++)
-            {
-                a.push_back(matrix[i][right]);
+            if(rowstart+1>=m || n-colstart-1<0 || (rowstart+1<m && n-colstart-1>=0 && visited[rowstart+1][n-colstart-1]))
+                break;
+            for(int i=rowstart+1; i<=m-rowstart-1; i++){
+                ans.push_back(matrix[i][n-colstart-1]);
+                visited[i][n-colstart-1]=true;
             }
-            right--;
-            if(top<=bottom)
-            {
-                for(int j=right; j>=left; j--)
-                {
-                    a.push_back(matrix[bottom][j]);
-                }
-                bottom--;
+            if(m-rowstart-1<0 || n-2-colstart<0 || (m-rowstart-1>=0 && n-2-colstart>=0 && visited[m-rowstart-1][n-2-colstart]))
+                break;
+            for(int j=n-2-colstart; j>=colstart; j--){
+                ans.push_back(matrix[m-rowstart-1][j]);
+                visited[m-rowstart-1][j]=true;
             }
-            if(left<=right)
-            {
-                for(int i=bottom; i>=top; i--)
-                {
-                    a.push_back(matrix[i][left]);
-                }
-                left++;
+            if(m-2-rowstart<0 || visited[m-2-rowstart][colstart])
+                break;
+            for(int i=m-2-rowstart; i>=rowstart+1; i--){
+                ans.push_back(matrix[i][colstart]);
+                visited[i][colstart]=true;
             }
+            rowstart++;
+            colstart++;
+            if(rowstart>=m || colstart>=n || (rowstart<m && colstart<n && visited[rowstart][colstart]))
+                break;
         }
-        return a;
+        return ans;
     }
 };

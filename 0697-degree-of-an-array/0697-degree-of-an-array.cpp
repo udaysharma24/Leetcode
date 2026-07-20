@@ -3,7 +3,7 @@ public:
     int findShortestSubArray(vector<int>& nums) {
         unordered_map<int,int> um;
         int mx=0;
-        set<int> maxnums;
+        unordered_set<int> maxnums;
         for(int i=0; i<nums.size(); i++){
             um[nums[i]]++;
             mx=max(mx,um[nums[i]]);

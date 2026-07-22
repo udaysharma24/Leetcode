@@ -3,19 +3,6 @@ public:
     int removeStones(vector<vector<int>>& stones) {
         int m=stones.size();
         int n=stones[0].size();
-        struct pairHash1 {
-            size_t operator()(const pair<int,int>& p) const {
-                return hash<int>()(p.first) ^ (hash<int>()(p.second) << 1);
-            }
-        };
-        unordered_map<pair<int,int>,bool,pairHash1> um;
-        int maxx=0;
-        int maxy=0;
-        for(int i=0; i<stones.size(); i++){
-            um[{stones[i][0],stones[i][1]}]=true;
-            maxx=max(stones[i][0],maxx);
-            maxy=max(stones[i][1],maxy);
-        }
         // cout<<"Hi1";
         struct pairHash2 {
             size_t operator()(const pair<int,int>& p) const {

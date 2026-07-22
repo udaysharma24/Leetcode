@@ -200,6 +200,7 @@ Author - Uday Sharma
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -535,6 +536,7 @@ Author - Uday Sharma
 | [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
 ## Heap (Priority Queue)
@@ -546,12 +548,14 @@ Author - Uday Sharma
 | ------- |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |

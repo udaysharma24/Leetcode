@@ -178,6 +178,7 @@ Author - Uday Sharma
 | [0410-split-array-largest-sum](https://github.com/udaysharma24/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/udaysharma24/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/udaysharma24/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/udaysharma24/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0935-knight-dialer](https://github.com/udaysharma24/Leetcode/tree/master/0935-knight-dialer) |
@@ -419,6 +420,7 @@ Author - Uday Sharma
 | [0583-delete-operation-for-two-strings](https://github.com/udaysharma24/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/udaysharma24/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/udaysharma24/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/udaysharma24/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0848-shifting-letters](https://github.com/udaysharma24/Leetcode/tree/master/0848-shifting-letters) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |

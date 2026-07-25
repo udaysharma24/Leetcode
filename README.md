@@ -52,6 +52,7 @@ Author - Uday Sharma
 | [0493-reverse-pairs](https://github.com/udaysharma24/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/udaysharma24/Leetcode/tree/master/0792-binary-search) |
@@ -208,6 +209,7 @@ Author - Uday Sharma
 | [0229-majority-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/udaysharma24/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -233,6 +235,7 @@ Author - Uday Sharma
 | [0229-majority-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/udaysharma24/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0922-sort-array-by-parity-ii](https://github.com/udaysharma24/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/udaysharma24/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -248,6 +251,7 @@ Author - Uday Sharma
 | ------- |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/udaysharma24/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -396,6 +400,7 @@ Author - Uday Sharma
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/udaysharma24/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/udaysharma24/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/udaysharma24/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -557,6 +562,7 @@ Author - Uday Sharma
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 ## Graph Theory
 |  |

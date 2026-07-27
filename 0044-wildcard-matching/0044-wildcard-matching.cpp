@@ -22,13 +22,6 @@ public:
                 else if(p[j-1]=='*'){
                     dp[i][j]=dp[i][j-1] || dp[i-1][j];
                 }
-                else if(p[j-1]=='*'){
-                    dp[i][j]=dp[i][j-1] || dp[i-1][j];
-                }
-                else{
-                    if(dp[i-1][j]==false || dp[i][j-1]==false)
-                        dp[i][j]=false;
-                }
             }
         }
         bool ans= dp[m][n];

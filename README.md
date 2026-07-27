@@ -74,6 +74,7 @@ Author - Uday Sharma
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/udaysharma24/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udaysharma24/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -248,6 +249,7 @@ Author - Uday Sharma
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/udaysharma24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
 | [3536-maximum-product-of-two-digits](https://github.com/udaysharma24/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
@@ -573,6 +575,7 @@ Author - Uday Sharma
 | ------- |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Graph Theory
 |  |
 | ------- |

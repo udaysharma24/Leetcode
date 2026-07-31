@@ -56,6 +56,7 @@ Author - Uday Sharma
 | [0628-maximum-product-of-three-numbers](https://github.com/udaysharma24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0667-beautiful-arrangement-ii](https://github.com/udaysharma24/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0697-degree-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/udaysharma24/Leetcode/tree/master/0792-binary-search) |
 | [0848-shifting-letters](https://github.com/udaysharma24/Leetcode/tree/master/0848-shifting-letters) |
@@ -495,6 +496,7 @@ Author - Uday Sharma
 | [0225-implement-stack-using-queues](https://github.com/udaysharma24/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udaysharma24/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -628,6 +630,7 @@ Author - Uday Sharma
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |

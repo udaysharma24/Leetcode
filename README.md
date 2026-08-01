@@ -497,6 +497,7 @@ Author - Uday Sharma
 | [0232-implement-queue-using-stacks](https://github.com/udaysharma24/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -596,6 +597,7 @@ Author - Uday Sharma
 ## Tree
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -603,6 +605,7 @@ Author - Uday Sharma
 | [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
@@ -636,4 +639,12 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaysharma24/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->

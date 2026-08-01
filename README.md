@@ -22,6 +22,7 @@ Author - Uday Sharma
 | [0054-spiral-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/udaysharma24/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/udaysharma24/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/udaysharma24/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -184,6 +185,7 @@ Author - Uday Sharma
 | [0022-generate-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/udaysharma24/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/udaysharma24/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/udaysharma24/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/udaysharma24/Leetcode/tree/master/0097-interleaving-string) |
@@ -389,6 +391,7 @@ Author - Uday Sharma
 | [0048-rotate-image](https://github.com/udaysharma24/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/udaysharma24/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |

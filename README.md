@@ -127,6 +127,7 @@ Author - Uday Sharma
 | [0029-divide-two-integers](https://github.com/udaysharma24/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/udaysharma24/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/udaysharma24/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/udaysharma24/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/udaysharma24/Leetcode/tree/master/0204-count-primes) |
@@ -185,6 +186,7 @@ Author - Uday Sharma
 | [0022-generate-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/udaysharma24/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/udaysharma24/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/udaysharma24/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/udaysharma24/Leetcode/tree/master/0072-edit-distance) |
@@ -658,4 +660,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/udaysharma24/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

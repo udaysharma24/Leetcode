@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int optimal(vector<int> piles, int chance, vector<vector<vector<int>>>& dp, int left, int right){
+    int optimal(vector<int>& piles, int chance, vector<vector<vector<int>>>& dp, int left, int right){
         if(chance==1 && right-left==1)
             return max(piles[left],piles[right]);
         else if(right-left==1)

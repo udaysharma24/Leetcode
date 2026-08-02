@@ -52,6 +52,7 @@ Author - Uday Sharma
 | [0485-max-consecutive-ones](https://github.com/udaysharma24/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/udaysharma24/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/udaysharma24/Leetcode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
@@ -233,6 +234,7 @@ Author - Uday Sharma
 | [0208-implement-trie-prefix-tree](https://github.com/udaysharma24/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -508,6 +510,7 @@ Author - Uday Sharma
 | [0225-implement-stack-using-queues](https://github.com/udaysharma24/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udaysharma24/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -646,6 +649,7 @@ Author - Uday Sharma
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching

@@ -28,7 +28,6 @@ public:
                     if(queries[i][j]>=65 && queries[i][j]<=90)
                         cnt2++;
                 }
-                cout<<i<<" "<<cnt1<<" "<<cnt2<<"\n";
                 if(cnt1==cnt2)
                     ans[i]=true;
                 else

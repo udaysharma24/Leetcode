@@ -147,6 +147,7 @@ Author - Uday Sharma
 | [1344-angle-between-hands-of-a-clock](https://github.com/udaysharma24/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/udaysharma24/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2719-count-of-integers](https://github.com/udaysharma24/Leetcode/tree/master/2719-count-of-integers) |
@@ -219,6 +220,7 @@ Author - Uday Sharma
 | [1143-longest-common-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/udaysharma24/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2719-count-of-integers](https://github.com/udaysharma24/Leetcode/tree/master/2719-count-of-integers) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |

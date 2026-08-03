@@ -9,6 +9,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/udaysharma24/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/udaysharma24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/udaysharma24/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/udaysharma24/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -322,6 +323,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/udaysharma24/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/udaysharma24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/udaysharma24/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/udaysharma24/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/udaysharma24/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -451,6 +453,7 @@ Author - Uday Sharma
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/udaysharma24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/udaysharma24/Leetcode/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/udaysharma24/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/udaysharma24/Leetcode/tree/master/0455-assign-cookies) |

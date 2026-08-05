@@ -1,0 +1,80 @@
+class Solution {
+public:
+    string originalDigits(string s) {
+        unordered_map<char,int> um;
+        string ans="";
+        int cnt=0;
+        for(int i=0; i<s.length(); i++){
+            um[s[i]]++;
+        }
+        while(um['z']>0){
+            ans.push_back('0');
+            um['z']--;
+            um['e']--;
+            um['r']--;
+            um['o']--;
+        }
+        while(um['w']>0){
+            ans.push_back('2');
+            um['t']--;
+            um['w']--;
+            um['o']--;
+        }
+        while(um['u']>0){
+            ans.push_back('4');
+            um['f']--;
+            um['o']--;
+            um['u']--;
+            um['r']--;
+        }
+        while(um['x']>0){
+            ans.push_back('6');
+            um['s']--;
+            um['i']--;
+            um['x']--;
+        }
+        while(um['g']>0){
+            ans.push_back('8');
+            um['e']--;
+            um['i']--;
+            um['g']--;
+            um['h']--;
+            um['t']--;
+        }
+        while(um['o']>0){
+            ans.push_back('1');
+            um['o']--;
+            um['n']--;
+            um['e']--;
+        }
+        while(um['t']>0){
+            ans.push_back('3');
+            um['t']--;
+            um['h']-=2;
+            um['r']--;
+            um['e']--;
+        }
+        while(um['f']>0){
+            ans.push_back('5');
+            um['f']--;
+            um['i']--;
+            um['v']--;
+            um['e']--;
+        }
+        while(um['s']>0){
+            ans.push_back('7');
+            um['s']--;
+            um['e']-=2;
+            um['v']--;
+            um['n']--;
+        }
+        while(um['n']>0){
+            ans.push_back('9');
+            um['n']-=2;
+            um['i']--;
+            um['e']--;
+        }
+        sort(ans.begin(),ans.end());
+        return ans;
+    }
+};

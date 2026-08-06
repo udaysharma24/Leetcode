@@ -155,6 +155,7 @@ Author - Uday Sharma
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/udaysharma24/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/udaysharma24/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2719-count-of-integers](https://github.com/udaysharma24/Leetcode/tree/master/2719-count-of-integers) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/udaysharma24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -289,6 +290,7 @@ Author - Uday Sharma
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/udaysharma24/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3536-maximum-product-of-two-digits](https://github.com/udaysharma24/Leetcode/tree/master/3536-maximum-product-of-two-digits) |

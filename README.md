@@ -87,6 +87,7 @@ Author - Uday Sharma
 | [1288-remove-covered-intervals](https://github.com/udaysharma24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/udaysharma24/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1441-build-an-array-with-stack-operations](https://github.com/udaysharma24/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -408,6 +409,7 @@ Author - Uday Sharma
 | [0068-text-justification](https://github.com/udaysharma24/Leetcode/tree/master/0068-text-justification) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/udaysharma24/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/udaysharma24/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/udaysharma24/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
@@ -553,6 +555,7 @@ Author - Uday Sharma
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1441-build-an-array-with-stack-operations](https://github.com/udaysharma24/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaysharma24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue

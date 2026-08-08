@@ -27,12 +27,6 @@ public:
                     dp[i][j]=max(0,dp[i][j]);
             }
         }
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                cout<<dp[i][j]<<" ";
-            }
-            cout<<"\n";
-        }
         int mx=0;
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){

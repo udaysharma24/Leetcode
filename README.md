@@ -113,6 +113,7 @@ Author - Uday Sharma
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/udaysharma24/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/udaysharma24/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -236,6 +237,7 @@ Author - Uday Sharma
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/udaysharma24/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/udaysharma24/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2719-count-of-integers](https://github.com/udaysharma24/Leetcode/tree/master/2719-count-of-integers) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -444,6 +446,7 @@ Author - Uday Sharma
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/udaysharma24/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Prefix Sum
 |  |

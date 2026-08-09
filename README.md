@@ -82,6 +82,7 @@ Author - Uday Sharma
 | [1046-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/udaysharma24/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1241-decompress-run-length-encoded-list](https://github.com/udaysharma24/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1260-shift-2d-grid](https://github.com/udaysharma24/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -156,6 +157,7 @@ Author - Uday Sharma
 | [1013-fibonacci-number](https://github.com/udaysharma24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/udaysharma24/Leetcode/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/udaysharma24/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/udaysharma24/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
@@ -232,6 +234,7 @@ Author - Uday Sharma
 | [1025-divisor-game](https://github.com/udaysharma24/Leetcode/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/udaysharma24/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/udaysharma24/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/udaysharma24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -459,6 +462,7 @@ Author - Uday Sharma
 | [1004-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/udaysharma24/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
@@ -677,6 +681,7 @@ Author - Uday Sharma
 | [0486-predict-the-winner](https://github.com/udaysharma24/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/udaysharma24/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/udaysharma24/Leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
 ## Tree
 |  |
 | ------- |
@@ -762,4 +767,12 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/udaysharma24/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

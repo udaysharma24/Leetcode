@@ -11,10 +11,6 @@ public:
             for(int i=1; i<n; i++){
                 int change=bills[i]-5;
                 if(total>=change){
-                    while(change>=20 && um[20]>0){
-                        change-=20;
-                        um[20]--;
-                    }
                     while(change>=10 && um[10]>0){
                         change-=10;
                         um[10]--;

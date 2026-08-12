@@ -2,19 +2,8 @@ class Solution {
 public:
     int maximumLength(string s) {
         map<string,int> um;
-        string str="";
-        str.push_back(s[0]);
-        um[str]++;
-        for(int j=1; j<s.length(); j++){
-            if(s[j]==s[j-1]){
-                str.push_back(s[j]);
-                um[str]++;
-            }
-            else
-                break;
-        }
-        for(int i=1; i<s.length(); i++){
-            str="";
+        for(int i=0; i<s.length(); i++){
+            string str="";
             str.push_back(s[i]);
             um[str]++;
             for(int j=i+1; j<s.length(); j++){

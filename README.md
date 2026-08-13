@@ -123,6 +123,7 @@ Author - Uday Sharma
 | [2876-number-of-employees-who-met-the-target](https://github.com/udaysharma24/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/udaysharma24/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udaysharma24/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/udaysharma24/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/udaysharma24/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -287,6 +288,7 @@ Author - Uday Sharma
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udaysharma24/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/udaysharma24/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/udaysharma24/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -682,6 +684,7 @@ Author - Uday Sharma
 | ------- |
 | [0204-count-primes](https://github.com/udaysharma24/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/udaysharma24/Leetcode/tree/master/1291-sequential-digits) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/udaysharma24/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udaysharma24/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/udaysharma24/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |

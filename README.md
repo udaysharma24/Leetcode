@@ -673,6 +673,7 @@ Author - Uday Sharma
 | ------- |
 | [0014-longest-common-prefix](https://github.com/udaysharma24/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/udaysharma24/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/udaysharma24/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1023-camelcase-matching](https://github.com/udaysharma24/Leetcode/tree/master/1023-camelcase-matching) |
 ## Design
 |  |
@@ -745,6 +746,7 @@ Author - Uday Sharma
 | [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/udaysharma24/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0386-lexicographical-numbers](https://github.com/udaysharma24/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |

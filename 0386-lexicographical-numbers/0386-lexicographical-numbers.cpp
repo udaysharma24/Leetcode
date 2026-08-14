@@ -14,6 +14,7 @@ public:
         }
     }
     vector<int> lexicalOrder(int n) {
+        // 1st Method: Using Min-heap
         // priority_queue<string, vector<string>, greater<string>> pq;
         // vector<int> ans;
         // for(int i=1; i<=n; i++){
@@ -25,8 +26,9 @@ public:
         // }
         // return ans;
 
+        //2nd method: Using Recursive DFS
         vector<int> v;
-        for(int i=1; i<=min(9,n); i++){
+        for(int i=1; i<=9; i++){
             solve(i,n,v);
         }
         return v;

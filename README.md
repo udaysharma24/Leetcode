@@ -296,6 +296,7 @@ Author - Uday Sharma
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
@@ -593,6 +594,7 @@ Author - Uday Sharma
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/udaysharma24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -633,6 +635,7 @@ Author - Uday Sharma
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udaysharma24/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |

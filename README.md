@@ -842,4 +842,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
+## Database
+|  |
+| ------- |
+| [1873-calculate-special-bonus](https://github.com/udaysharma24/Leetcode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->

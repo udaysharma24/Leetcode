@@ -289,6 +289,7 @@ Author - Uday Sharma
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/udaysharma24/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udaysharma24/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/udaysharma24/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -345,6 +346,7 @@ Author - Uday Sharma
 | [0229-majority-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/udaysharma24/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
@@ -588,6 +590,7 @@ Author - Uday Sharma
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/udaysharma24/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/udaysharma24/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/udaysharma24/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2719-count-of-integers](https://github.com/udaysharma24/Leetcode/tree/master/2719-count-of-integers) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |

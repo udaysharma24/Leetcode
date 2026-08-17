@@ -131,6 +131,7 @@ Author - Uday Sharma
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/udaysharma24/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaysharma24/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3429-special-array-i](https://github.com/udaysharma24/Leetcode/tree/master/3429-special-array-i) |
@@ -264,6 +265,7 @@ Author - Uday Sharma
 | [2719-count-of-integers](https://github.com/udaysharma24/Leetcode/tree/master/2719-count-of-integers) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/udaysharma24/Leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaysharma24/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table

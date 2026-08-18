@@ -208,6 +208,7 @@ Author - Uday Sharma
 | [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/udaysharma24/Leetcode/tree/master/0338-counting-bits) |
+| [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/udaysharma24/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2429-minimize-xor](https://github.com/udaysharma24/Leetcode/tree/master/2429-minimize-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -295,6 +296,7 @@ Author - Uday Sharma
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/udaysharma24/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -593,6 +595,7 @@ Author - Uday Sharma
 | [0647-palindromic-substrings](https://github.com/udaysharma24/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/udaysharma24/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/udaysharma24/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0848-shifting-letters](https://github.com/udaysharma24/Leetcode/tree/master/0848-shifting-letters) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0925-long-pressed-name](https://github.com/udaysharma24/Leetcode/tree/master/0925-long-pressed-name) |
@@ -711,6 +714,7 @@ Author - Uday Sharma
 | [0022-generate-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/udaysharma24/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
+| [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Enumeration
 |  |

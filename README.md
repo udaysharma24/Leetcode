@@ -136,6 +136,7 @@ Author - Uday Sharma
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3429-special-array-i](https://github.com/udaysharma24/Leetcode/tree/master/3429-special-array-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/udaysharma24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/udaysharma24/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -311,6 +312,7 @@ Author - Uday Sharma
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/udaysharma24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |

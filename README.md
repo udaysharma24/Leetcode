@@ -43,6 +43,7 @@ Author - Uday Sharma
 | [0162-find-peak-element](https://github.com/udaysharma24/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/udaysharma24/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/udaysharma24/Leetcode/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/udaysharma24/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/udaysharma24/Leetcode/tree/master/0228-summary-ranges) |
@@ -244,6 +245,7 @@ Author - Uday Sharma
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaysharma24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/udaysharma24/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/udaysharma24/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/udaysharma24/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/udaysharma24/Leetcode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/udaysharma24/Leetcode/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0376-wiggle-subsequence) |

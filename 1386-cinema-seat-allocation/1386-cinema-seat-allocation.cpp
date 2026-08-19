@@ -1,11 +1,6 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        sort(reservedSeats.begin(),reservedSeats.end(),[](vector<int>& a, vector<int>& b){
-            if(a[0]==b[0])
-                return a[1]<b[1];
-            return a[0]<b[0];
-        });
         unordered_map<int,bool> um;
         unordered_map<int,bool> uml;
         unordered_map<int,bool> umu;

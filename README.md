@@ -243,6 +243,7 @@ Author - Uday Sharma
 | [0119-pascals-triangle-ii](https://github.com/udaysharma24/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaysharma24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/udaysharma24/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/udaysharma24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/udaysharma24/Leetcode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/udaysharma24/Leetcode/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -596,6 +597,7 @@ Author - Uday Sharma
 | [0072-edit-distance](https://github.com/udaysharma24/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/udaysharma24/Leetcode/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/udaysharma24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/udaysharma24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/udaysharma24/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/udaysharma24/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -725,6 +727,7 @@ Author - Uday Sharma
 | [0039-combination-sum](https://github.com/udaysharma24/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/udaysharma24/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/udaysharma24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Enumeration

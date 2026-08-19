@@ -23,26 +23,16 @@ public:
         }
         int ans=2*n;
         for(const auto &[row,reserved]:um){
-            if(uml[row] && umu[row] && umm[row]){
+            if(uml[row] && umu[row] && umm[row])
                 ans-=2;
-                cout<<"part1\n";
-            }
-            else if(uml[row] && umu[row]){
+            else if(uml[row] && umu[row])
                 ans--;
-                cout<<"part2\n";
-            }
-            else if(uml[row] && umm[row]){
+            else if(uml[row] && umm[row])
                 ans--;
-                cout<<"part3\n";
-            }
-            else if(umm[row] && umu[row]){
+            else if(umm[row] && umu[row])
                 ans--;
-                cout<<"part4\n";
-            }
-            else if(uml[row] || umm[row] || umu[row]){
+            else if(uml[row] || umm[row] || umu[row])
                 ans--;
-                cout<<"part5\n";
-            }
         }
         return ans;
     }

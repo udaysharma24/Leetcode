@@ -768,6 +768,7 @@ Author - Uday Sharma
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/udaysharma24/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/udaysharma24/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
@@ -839,6 +840,7 @@ Author - Uday Sharma
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/udaysharma24/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/udaysharma24/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Combinatorics
 |  |

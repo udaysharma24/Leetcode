@@ -578,6 +578,7 @@ Author - Uday Sharma
 | [1881-maximum-value-after-insertion](https://github.com/udaysharma24/Leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/udaysharma24/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2429-minimize-xor](https://github.com/udaysharma24/Leetcode/tree/master/2429-minimize-xor) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/udaysharma24/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/udaysharma24/Leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
@@ -633,6 +634,7 @@ Author - Uday Sharma
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/udaysharma24/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/udaysharma24/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/udaysharma24/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2719-count-of-integers](https://github.com/udaysharma24/Leetcode/tree/master/2719-count-of-integers) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -663,6 +665,7 @@ Author - Uday Sharma
 | [1441-build-an-array-with-stack-operations](https://github.com/udaysharma24/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaysharma24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/udaysharma24/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Queue
 |  |
 | ------- |
@@ -737,6 +740,7 @@ Author - Uday Sharma
 | [0131-palindrome-partitioning](https://github.com/udaysharma24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/udaysharma24/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Enumeration
 |  |
 | ------- |

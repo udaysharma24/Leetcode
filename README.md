@@ -135,6 +135,7 @@ Author - Uday Sharma
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/udaysharma24/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/udaysharma24/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/udaysharma24/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaysharma24/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -488,6 +489,7 @@ Author - Uday Sharma
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/udaysharma24/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/udaysharma24/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/udaysharma24/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/udaysharma24/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/udaysharma24/Leetcode/tree/master/3925-concatenate-array-with-reverse) |

@@ -119,6 +119,7 @@ Author - Uday Sharma
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysharma24/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -437,6 +438,7 @@ Author - Uday Sharma
 | [0977-squares-of-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/udaysharma24/Leetcode/tree/master/1023-camelcase-matching) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/udaysharma24/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |

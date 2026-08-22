@@ -90,6 +90,7 @@ Author - Uday Sharma
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/udaysharma24/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/udaysharma24/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1241-decompress-run-length-encoded-list](https://github.com/udaysharma24/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1260-shift-2d-grid](https://github.com/udaysharma24/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -270,6 +271,7 @@ Author - Uday Sharma
 | [1092-shortest-common-supersequence](https://github.com/udaysharma24/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/udaysharma24/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/udaysharma24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/udaysharma24/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -516,6 +518,7 @@ Author - Uday Sharma
 | [0240-search-a-2d-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
 | [1030-matrix-cells-in-distance-order](https://github.com/udaysharma24/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1162-as-far-from-land-as-possible](https://github.com/udaysharma24/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/udaysharma24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -773,6 +776,7 @@ Author - Uday Sharma
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1162-as-far-from-land-as-possible](https://github.com/udaysharma24/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/udaysharma24/Leetcode/tree/master/1462-course-schedule-iv) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |

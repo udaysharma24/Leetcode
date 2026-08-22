@@ -1,33 +1,42 @@
 class Solution {
 public:
-    bool dfs(vector<vector<char>>& board, int i, int j, string word, int index,vector<vector<bool>>& visited){
-        if(i<0 || j<0 || i>=board.size() || j>=board[0].size() || board[i][j]!=word[index])
-            return false;
-        else if(!visited[i][j] && board[i][j]==word[index] && index==word.length()-1){
-            visited[i][j]=true;
+    bool backtrack(int x, int y, string current, vector<vector<char>>& board, string word, vector<vector<bool>>& visited){
+        bool flag=false;
+        if(current==word)
             return true;
-        }
-        else if(!visited[i][j] && board[i][j]==word[index]){
-            visited[i][j]=true;
-            bool ans= (dfs(board,i+1,j,word,index+1,visited) || dfs(board,i,j+1,word,index+1,visited) || dfs(board,i-1,j,word,index+1,visited) || dfs(board,i,j-1,word,index+1,visited));
-            visited[i][j]=false;
-            return ans;
-        }
-        else
+        if(current.length()>word.length() || (current!=word && current.length()==word.length()))
             return false;
+        if(x>=board.size() || y>=board[0].size() || x<0 || y<0)
+            return false;
+        if(board[x][y] != word[current.length()])
+            return false;
+        if(visited[x][y])
+            return false;
+        if(!visited[x][y]){ //Take
+            current.push_back(board[x][y]);
+            visited[x][y]=true;
+            flag=backtrack(x+1,y,current,board,word,visited) || backtrack(x,y+1,current,board,word,visited) || backtrack(x-1,y,current,board,word,visited) || backtrack(x,y-1,current,board,word,visited);
+        }
+        if(visited[x][y]){
+            current.pop_back();
+            visited[x][y]=false;
+        }
+        return flag;
     }
     bool exist(vector<vector<char>>& board, string word) {
-        vector<vector<bool>> visited(board.size(), vector<bool>(board[0].size(),false));
-        for(int i=0; i<board.size(); i++){
-            for(int j=0; j<board[0].size(); j++){
-                if(dfs(board,i,j,word,0,visited))
-                    return true;
-                else{
-                    visited.assign(board.size(),vector<bool>(board[0].size(),false));
-                    continue;
-                }
+        int m=board.size();
+        int n=board[0].size();
+        if(word.length()>m*n)
+            return false;
+        bool flag=false;
+        vector<vector<bool>> visited(m, vector<bool>(n,false));
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                flag=backtrack(i,j,"",board,word,visited);
+                if(flag==true)
+                    return flag;
             }
         }
-        return false;
+        return flag;
     }
 };

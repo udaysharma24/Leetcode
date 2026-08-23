@@ -189,6 +189,7 @@ Author - Uday Sharma
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/udaysharma24/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/udaysharma24/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -584,6 +585,7 @@ Author - Uday Sharma
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaysharma24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1881-maximum-value-after-insertion](https://github.com/udaysharma24/Leetcode/tree/master/1881-maximum-value-after-insertion) |
+| [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/udaysharma24/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -637,6 +639,7 @@ Author - Uday Sharma
 | [1773-count-items-matching-a-rule](https://github.com/udaysharma24/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [1881-maximum-value-after-insertion](https://github.com/udaysharma24/Leetcode/tree/master/1881-maximum-value-after-insertion) |
+| [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/udaysharma24/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -797,6 +800,7 @@ Author - Uday Sharma
 | [0877-stone-game](https://github.com/udaysharma24/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/udaysharma24/Leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
 ## Tree
 |  |
 | ------- |

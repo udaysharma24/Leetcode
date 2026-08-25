@@ -151,6 +151,7 @@ Author - Uday Sharma
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/udaysharma24/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/udaysharma24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -332,6 +333,7 @@ Author - Uday Sharma
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udaysharma24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/udaysharma24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/udaysharma24/Leetcode/tree/master/3803-count-residue-prefixes) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |

@@ -143,6 +143,7 @@ Author - Uday Sharma
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaysharma24/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3429-special-array-i](https://github.com/udaysharma24/Leetcode/tree/master/3429-special-array-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udaysharma24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -224,6 +225,7 @@ Author - Uday Sharma
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/udaysharma24/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2429-minimize-xor](https://github.com/udaysharma24/Leetcode/tree/master/2429-minimize-xor) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/udaysharma24/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -288,6 +290,7 @@ Author - Uday Sharma
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaysharma24/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -758,6 +761,7 @@ Author - Uday Sharma
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/udaysharma24/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -791,6 +795,7 @@ Author - Uday Sharma
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2685-count-the-number-of-complete-components](https://github.com/udaysharma24/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/udaysharma24/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Brainteaser
@@ -928,4 +933,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [1873-calculate-special-bonus](https://github.com/udaysharma24/Leetcode/tree/master/1873-calculate-special-bonus) |
+## Bitmask
+|  |
+| ------- |
+| [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 <!---LeetCode Topics End-->

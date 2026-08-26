@@ -172,6 +172,7 @@ Author - Uday Sharma
 | [0048-rotate-image](https://github.com/udaysharma24/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/udaysharma24/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/udaysharma24/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/udaysharma24/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/udaysharma24/Leetcode/tree/master/0204-count-primes) |
@@ -216,6 +217,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/udaysharma24/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/udaysharma24/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/udaysharma24/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
@@ -496,6 +498,7 @@ Author - Uday Sharma
 | ------- |
 | [0054-spiral-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/udaysharma24/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/udaysharma24/Leetcode/tree/master/0068-text-justification) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/udaysharma24/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -618,6 +621,7 @@ Author - Uday Sharma
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaysharma24/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/udaysharma24/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/udaysharma24/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/udaysharma24/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/udaysharma24/Leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/udaysharma24/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |

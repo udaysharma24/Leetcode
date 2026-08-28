@@ -942,6 +942,7 @@ Author - Uday Sharma
 ## Database
 |  |
 | ------- |
+| [1484-group-sold-products-by-the-date](https://github.com/udaysharma24/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1873-calculate-special-bonus](https://github.com/udaysharma24/Leetcode/tree/master/1873-calculate-special-bonus) |
 ## Bitmask
 |  |

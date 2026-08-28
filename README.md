@@ -141,6 +141,7 @@ Author - Uday Sharma
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udaysharma24/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/udaysharma24/Leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaysharma24/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -379,6 +380,7 @@ Author - Uday Sharma
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/udaysharma24/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/udaysharma24/Leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3536-maximum-product-of-two-digits](https://github.com/udaysharma24/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -608,6 +610,7 @@ Author - Uday Sharma
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/udaysharma24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/udaysharma24/Leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/udaysharma24/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |

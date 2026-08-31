@@ -122,6 +122,7 @@ Author - Uday Sharma
 | [1929-concatenation-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysharma24/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -332,6 +333,7 @@ Author - Uday Sharma
 | [0997-find-the-town-judge](https://github.com/udaysharma24/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/udaysharma24/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -672,6 +674,7 @@ Author - Uday Sharma
 | [1881-maximum-value-after-insertion](https://github.com/udaysharma24/Leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/udaysharma24/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -764,6 +767,7 @@ Author - Uday Sharma
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/udaysharma24/Leetcode/tree/master/1462-course-schedule-iv) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Trie
 |  |
@@ -886,6 +890,7 @@ Author - Uday Sharma
 | [0997-find-the-town-judge](https://github.com/udaysharma24/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/udaysharma24/Leetcode/tree/master/1462-course-schedule-iv) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2685-count-the-number-of-complete-components](https://github.com/udaysharma24/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/udaysharma24/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -940,6 +945,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/udaysharma24/Leetcode/tree/master/0207-course-schedule) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Geometry
 |  |
 | ------- |

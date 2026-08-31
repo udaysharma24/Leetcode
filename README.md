@@ -63,6 +63,7 @@ Author - Uday Sharma
 | [0525-contiguous-array](https://github.com/udaysharma24/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaysharma24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0667-beautiful-arrangement-ii](https://github.com/udaysharma24/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
@@ -320,6 +321,7 @@ Author - Uday Sharma
 | [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/udaysharma24/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -366,6 +368,7 @@ Author - Uday Sharma
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/udaysharma24/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/udaysharma24/Leetcode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaysharma24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/udaysharma24/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -395,6 +398,7 @@ Author - Uday Sharma
 | ------- |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/udaysharma24/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -711,6 +715,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaysharma24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/udaysharma24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |

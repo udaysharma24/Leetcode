@@ -10,10 +10,6 @@ public:
                 return a<b;
             return um[a]>um[b];
         });
-        // for(int i=0; i<arr.size(); i++){
-        //     cout<<arr[i]<<" ";
-        // }
-        // cout<<"\n";
         unordered_set<int> us;
         int ans=0;
         int count=0;
@@ -21,7 +17,6 @@ public:
             if(us.find(arr[i])==us.end()){
                 us.insert(arr[i]);
                 count+=um[arr[i]];
-                // cout<<arr[i]<<" ";
                 ans++;
             }
             if(2*count>=arr.size())

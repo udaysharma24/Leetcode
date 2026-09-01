@@ -831,6 +831,7 @@ Author - Uday Sharma
 | [0102-binary-tree-level-order-traversal](https://github.com/udaysharma24/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/udaysharma24/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/udaysharma24/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/udaysharma24/Leetcode/tree/master/0994-rotting-oranges) |
@@ -874,6 +875,7 @@ Author - Uday Sharma
 | [0207-course-schedule](https://github.com/udaysharma24/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/udaysharma24/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/udaysharma24/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -898,6 +900,7 @@ Author - Uday Sharma
 | ------- |
 | [0207-course-schedule](https://github.com/udaysharma24/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/udaysharma24/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/udaysharma24/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -911,6 +914,7 @@ Author - Uday Sharma
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/udaysharma24/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |

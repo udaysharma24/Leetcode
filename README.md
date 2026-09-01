@@ -160,6 +160,7 @@ Author - Uday Sharma
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/udaysharma24/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3582-find-indices-of-stable-mountains](https://github.com/udaysharma24/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/udaysharma24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -240,6 +241,7 @@ Author - Uday Sharma
 | [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/udaysharma24/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
@@ -352,6 +354,7 @@ Author - Uday Sharma
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udaysharma24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/udaysharma24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/udaysharma24/Leetcode/tree/master/3803-count-residue-prefixes) |
@@ -561,6 +564,7 @@ Author - Uday Sharma
 | [2643-row-with-maximum-ones](https://github.com/udaysharma24/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Prefix Sum
@@ -833,6 +837,7 @@ Author - Uday Sharma
 | [2685-count-the-number-of-complete-components](https://github.com/udaysharma24/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/udaysharma24/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Brainteaser

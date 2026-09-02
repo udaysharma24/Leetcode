@@ -285,6 +285,7 @@ Author - Uday Sharma
 | [0647-palindromic-substrings](https://github.com/udaysharma24/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/udaysharma24/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/udaysharma24/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/udaysharma24/Leetcode/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0935-knight-dialer](https://github.com/udaysharma24/Leetcode/tree/master/0935-knight-dialer) |
@@ -842,6 +843,7 @@ Author - Uday Sharma
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/udaysharma24/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/udaysharma24/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/udaysharma24/Leetcode/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/udaysharma24/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -888,6 +890,7 @@ Author - Uday Sharma
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/udaysharma24/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/udaysharma24/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/udaysharma24/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -903,6 +906,7 @@ Author - Uday Sharma
 | ------- |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/udaysharma24/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/udaysharma24/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/udaysharma24/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -916,6 +920,7 @@ Author - Uday Sharma
 | [0547-number-of-provinces](https://github.com/udaysharma24/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/udaysharma24/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/udaysharma24/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/udaysharma24/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -1021,6 +1026,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/udaysharma24/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/udaysharma24/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |

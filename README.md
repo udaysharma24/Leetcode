@@ -189,6 +189,7 @@ Author - Uday Sharma
 | [0070-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/udaysharma24/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/udaysharma24/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/udaysharma24/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -976,6 +977,7 @@ Author - Uday Sharma
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/udaysharma24/Leetcode/tree/master/0223-rectangle-area) |
 | [1030-matrix-cells-in-distance-order](https://github.com/udaysharma24/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Minimax
 |  |

@@ -496,6 +496,7 @@ Author - Uday Sharma
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/udaysharma24/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4026-maximum-gap-between-stations](https://github.com/udaysharma24/Leetcode/tree/master/4026-maximum-gap-between-stations) |
 ## Binary Search
 |  |
 | ------- |
@@ -655,6 +656,7 @@ Author - Uday Sharma
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/udaysharma24/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/udaysharma24/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [4026-maximum-gap-between-stations](https://github.com/udaysharma24/Leetcode/tree/master/4026-maximum-gap-between-stations) |
 ## String
 |  |
 | ------- |
@@ -722,6 +724,7 @@ Author - Uday Sharma
 | [3803-count-residue-prefixes](https://github.com/udaysharma24/Leetcode/tree/master/3803-count-residue-prefixes) |
 | [3913-sort-vowels-by-frequency](https://github.com/udaysharma24/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
+| [4026-maximum-gap-between-stations](https://github.com/udaysharma24/Leetcode/tree/master/4026-maximum-gap-between-stations) |
 ## Stack
 |  |
 | ------- |

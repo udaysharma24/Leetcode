@@ -796,6 +796,7 @@ Author - Uday Sharma
 | ------- |
 | [0207-course-schedule](https://github.com/udaysharma24/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/udaysharma24/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/udaysharma24/Leetcode/tree/master/1462-course-schedule-iv) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -858,6 +859,7 @@ Author - Uday Sharma
 | [0743-network-delay-time](https://github.com/udaysharma24/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/udaysharma24/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/udaysharma24/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/udaysharma24/Leetcode/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/udaysharma24/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -905,6 +907,7 @@ Author - Uday Sharma
 | [0743-network-delay-time](https://github.com/udaysharma24/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/udaysharma24/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/udaysharma24/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/udaysharma24/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -935,6 +938,7 @@ Author - Uday Sharma
 | [0743-network-delay-time](https://github.com/udaysharma24/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/udaysharma24/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/udaysharma24/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/udaysharma24/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/udaysharma24/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -1045,4 +1049,12 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/udaysharma24/Leetcode/tree/master/0743-network-delay-time) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/udaysharma24/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/udaysharma24/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

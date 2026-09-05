@@ -26,21 +26,13 @@ public:
                 cnt=1;
                 load=0;
             }
-            else if(cnt==days)
+            else if(cnt<=days)
             {
                 ans=mid;
                 high=mid-1;
                 mid=(low+high)/2;
                 cnt = 1;
                 load = 0;
-            }
-            else if(cnt<days)
-            {
-                ans=mid;
-                high=mid-1;
-                mid=(low+high)/2;
-                cnt=1;
-                load=0;
             }
         }
         return ans;

@@ -876,6 +876,7 @@ Author - Uday Sharma
 | [0787-cheapest-flights-within-k-stops](https://github.com/udaysharma24/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/udaysharma24/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/udaysharma24/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0965-univalued-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/udaysharma24/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/udaysharma24/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/udaysharma24/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -906,6 +907,7 @@ Author - Uday Sharma
 | [0102-binary-tree-level-order-traversal](https://github.com/udaysharma24/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/udaysharma24/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/udaysharma24/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -929,6 +931,7 @@ Author - Uday Sharma
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/udaysharma24/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0965-univalued-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/udaysharma24/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/udaysharma24/Leetcode/tree/master/1462-course-schedule-iv) |
@@ -1003,6 +1006,7 @@ Author - Uday Sharma
 | [0102-binary-tree-level-order-traversal](https://github.com/udaysharma24/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/udaysharma24/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/udaysharma24/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Combinatorics

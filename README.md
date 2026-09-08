@@ -215,6 +215,7 @@ Author - Uday Sharma
 | [1344-angle-between-hands-of-a-clock](https://github.com/udaysharma24/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/udaysharma24/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/udaysharma24/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/udaysharma24/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
@@ -544,6 +545,7 @@ Author - Uday Sharma
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/udaysharma24/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/udaysharma24/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/udaysharma24/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysharma24/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -661,6 +663,7 @@ Author - Uday Sharma
 | [1338-reduce-array-size-to-the-half](https://github.com/udaysharma24/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaysharma24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/udaysharma24/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1881-maximum-value-after-insertion](https://github.com/udaysharma24/Leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |

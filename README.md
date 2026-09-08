@@ -46,6 +46,7 @@ Author - Uday Sharma
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/udaysharma24/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/udaysharma24/Leetcode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/udaysharma24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/udaysharma24/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/udaysharma24/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0229-majority-element-ii) |
@@ -526,6 +527,7 @@ Author - Uday Sharma
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/udaysharma24/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaysharma24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/udaysharma24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -608,6 +610,7 @@ Author - Uday Sharma
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/udaysharma24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/udaysharma24/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/udaysharma24/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -777,6 +780,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaysharma24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/udaysharma24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |

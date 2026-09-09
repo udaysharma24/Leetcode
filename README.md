@@ -175,6 +175,7 @@ Author - Uday Sharma
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/udaysharma24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3875-construct-uniform-parity-array-i](https://github.com/udaysharma24/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -690,6 +691,7 @@ Author - Uday Sharma
 | [3111-minimum-rectangles-to-cover-points](https://github.com/udaysharma24/Leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/udaysharma24/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/udaysharma24/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [4026-maximum-gap-between-stations](https://github.com/udaysharma24/Leetcode/tree/master/4026-maximum-gap-between-stations) |

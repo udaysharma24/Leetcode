@@ -937,6 +937,7 @@ Author - Uday Sharma
 | [0938-range-sum-of-bst](https://github.com/udaysharma24/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/udaysharma24/Leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/udaysharma24/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
@@ -964,6 +965,7 @@ Author - Uday Sharma
 | [1020-number-of-enclaves](https://github.com/udaysharma24/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/udaysharma24/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/udaysharma24/Leetcode/tree/master/1462-course-schedule-iv) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/udaysharma24/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/udaysharma24/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1039,6 +1041,7 @@ Author - Uday Sharma
 | [0938-range-sum-of-bst](https://github.com/udaysharma24/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/udaysharma24/Leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/udaysharma24/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Combinatorics
 |  |

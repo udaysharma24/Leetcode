@@ -1085,6 +1085,7 @@ Author - Uday Sharma
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/udaysharma24/Leetcode/tree/master/0182-duplicate-emails) |
 | [1484-group-sold-products-by-the-date](https://github.com/udaysharma24/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1873-calculate-special-bonus](https://github.com/udaysharma24/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/udaysharma24/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |

@@ -170,6 +170,7 @@ Author - Uday Sharma
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udaysharma24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/udaysharma24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/udaysharma24/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -389,6 +390,7 @@ Author - Uday Sharma
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udaysharma24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/udaysharma24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3714-longest-balanced-substring-ii](https://github.com/udaysharma24/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -478,6 +480,7 @@ Author - Uday Sharma
 | [0234-palindrome-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/udaysharma24/Leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/udaysharma24/Leetcode/tree/master/1013-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/udaysharma24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -881,6 +884,7 @@ Author - Uday Sharma
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3200-maximum-height-of-a-triangle](https://github.com/udaysharma24/Leetcode/tree/master/3200-maximum-height-of-a-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udaysharma24/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/udaysharma24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/udaysharma24/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Number Theory
 |  |

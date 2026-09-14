@@ -78,6 +78,7 @@ Author - Uday Sharma
 | [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/udaysharma24/Leetcode/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/udaysharma24/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0848-shifting-letters](https://github.com/udaysharma24/Leetcode/tree/master/0848-shifting-letters) |
 | [0860-lemonade-change](https://github.com/udaysharma24/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/udaysharma24/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -216,6 +217,7 @@ Author - Uday Sharma
 | [0628-maximum-product-of-three-numbers](https://github.com/udaysharma24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0667-beautiful-arrangement-ii](https://github.com/udaysharma24/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0836-rectangle-overlap](https://github.com/udaysharma24/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0840-magic-squares-in-grid](https://github.com/udaysharma24/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/udaysharma24/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/udaysharma24/Leetcode/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -371,6 +373,7 @@ Author - Uday Sharma
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/udaysharma24/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/udaysharma24/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0970-powerful-integers](https://github.com/udaysharma24/Leetcode/tree/master/0970-powerful-integers) |
@@ -617,6 +620,7 @@ Author - Uday Sharma
 | [0221-maximal-square](https://github.com/udaysharma24/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/udaysharma24/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/udaysharma24/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/udaysharma24/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1030-matrix-cells-in-distance-order](https://github.com/udaysharma24/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |

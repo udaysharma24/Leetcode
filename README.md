@@ -88,6 +88,7 @@ Author - Uday Sharma
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-koko-eating-bananas](https://github.com/udaysharma24/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/udaysharma24/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/udaysharma24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/udaysharma24/Leetcode/tree/master/0994-rotting-oranges) |
@@ -378,6 +379,7 @@ Author - Uday Sharma
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/udaysharma24/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/udaysharma24/Leetcode/tree/master/0869-reordered-power-of-2) |
+| [0930-binary-subarrays-with-sum](https://github.com/udaysharma24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0970-powerful-integers](https://github.com/udaysharma24/Leetcode/tree/master/0970-powerful-integers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -653,6 +655,7 @@ Author - Uday Sharma
 | [0525-contiguous-array](https://github.com/udaysharma24/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysharma24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/udaysharma24/Leetcode/tree/master/0848-shifting-letters) |
+| [0930-binary-subarrays-with-sum](https://github.com/udaysharma24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -827,6 +830,7 @@ Author - Uday Sharma
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaysharma24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/udaysharma24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0930-binary-subarrays-with-sum](https://github.com/udaysharma24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/udaysharma24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |

@@ -493,6 +493,7 @@ Author - Uday Sharma
 | [0206-reverse-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/udaysharma24/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/udaysharma24/Leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/udaysharma24/Leetcode/tree/master/1013-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/udaysharma24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -745,6 +746,7 @@ Author - Uday Sharma
 | [0205-isomorphic-strings](https://github.com/udaysharma24/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/udaysharma24/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/udaysharma24/Leetcode/tree/master/0394-decode-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/udaysharma24/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0583-delete-operation-for-two-strings](https://github.com/udaysharma24/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/udaysharma24/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -798,6 +800,7 @@ Author - Uday Sharma
 | [0225-implement-stack-using-queues](https://github.com/udaysharma24/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udaysharma24/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/udaysharma24/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |

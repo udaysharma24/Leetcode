@@ -127,6 +127,7 @@ Author - Uday Sharma
 | [1664-ways-to-make-a-fair-array](https://github.com/udaysharma24/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/udaysharma24/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/udaysharma24/Leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1755-defuse-the-bomb](https://github.com/udaysharma24/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/udaysharma24/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1773-count-items-matching-a-rule](https://github.com/udaysharma24/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -660,6 +661,7 @@ Author - Uday Sharma
 | [1664-ways-to-make-a-fair-array](https://github.com/udaysharma24/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/udaysharma24/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/udaysharma24/Leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |

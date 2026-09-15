@@ -27,14 +27,15 @@ public:
                     temp+=temp1;
                 }
                 if(st.empty()){
-                    newstr += temp;
+                    newstr+=temp;
+                    temp="";
                 }
                 else{
                     // Put decoded inner string back into stack
                     for(char c : temp)
                         st.push(c);
+                    temp="";
                 }
-                temp = "";
             }
             else{
                 if(s[i]=='[')

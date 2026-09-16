@@ -276,6 +276,7 @@ Author - Uday Sharma
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/udaysharma24/Leetcode/tree/master/0338-counting-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/udaysharma24/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/udaysharma24/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2429-minimize-xor](https://github.com/udaysharma24/Leetcode/tree/master/2429-minimize-xor) |
@@ -390,6 +391,7 @@ Author - Uday Sharma
 | [1248-count-number-of-nice-subarrays](https://github.com/udaysharma24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/udaysharma24/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/udaysharma24/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/udaysharma24/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -665,6 +667,7 @@ Author - Uday Sharma
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/udaysharma24/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/udaysharma24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/udaysharma24/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/udaysharma24/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/udaysharma24/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1664-ways-to-make-a-fair-array](https://github.com/udaysharma24/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
@@ -773,6 +776,7 @@ Author - Uday Sharma
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/udaysharma24/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/udaysharma24/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaysharma24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/udaysharma24/Leetcode/tree/master/1773-count-items-matching-a-rule) |

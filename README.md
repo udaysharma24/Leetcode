@@ -622,6 +622,7 @@ Author - Uday Sharma
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/udaysharma24/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udaysharma24/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/udaysharma24/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/udaysharma24/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3701-compute-alternating-sum](https://github.com/udaysharma24/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -812,6 +813,7 @@ Author - Uday Sharma
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/udaysharma24/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/udaysharma24/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/udaysharma24/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/udaysharma24/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |

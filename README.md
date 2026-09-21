@@ -249,6 +249,7 @@ Author - Uday Sharma
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/udaysharma24/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2235-add-two-integers](https://github.com/udaysharma24/Leetcode/tree/master/2235-add-two-integers) |
+| [2544-alternating-digit-sum](https://github.com/udaysharma24/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2719-count-of-integers](https://github.com/udaysharma24/Leetcode/tree/master/2719-count-of-integers) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2965-find-missing-and-repeated-values](https://github.com/udaysharma24/Leetcode/tree/master/2965-find-missing-and-repeated-values) |

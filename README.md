@@ -203,6 +203,7 @@ Author - Uday Sharma
 | [3925-concatenate-array-with-reverse](https://github.com/udaysharma24/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/udaysharma24/Leetcode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Math
 |  |
 | ------- |
@@ -612,6 +613,7 @@ Author - Uday Sharma
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/udaysharma24/Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/udaysharma24/Leetcode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Simulation
 |  |
 | ------- |
@@ -701,6 +703,7 @@ Author - Uday Sharma
 | [3903-smallest-stable-index-i](https://github.com/udaysharma24/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/udaysharma24/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/udaysharma24/Leetcode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Binary Indexed Tree
 |  |
 | ------- |

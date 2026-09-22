@@ -96,6 +96,7 @@ Author - Uday Sharma
 | [0997-find-the-town-judge](https://github.com/udaysharma24/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/udaysharma24/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1014-best-sightseeing-pair](https://github.com/udaysharma24/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1020-number-of-enclaves](https://github.com/udaysharma24/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1023-camelcase-matching](https://github.com/udaysharma24/Leetcode/tree/master/1023-camelcase-matching) |
 | [1030-matrix-cells-in-distance-order](https://github.com/udaysharma24/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
@@ -337,6 +338,7 @@ Author - Uday Sharma
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0935-knight-dialer](https://github.com/udaysharma24/Leetcode/tree/master/0935-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/udaysharma24/Leetcode/tree/master/1013-fibonacci-number) |
+| [1014-best-sightseeing-pair](https://github.com/udaysharma24/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1025-divisor-game](https://github.com/udaysharma24/Leetcode/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/udaysharma24/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/udaysharma24/Leetcode/tree/master/1092-shortest-common-supersequence) |

@@ -1,22 +1,19 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> v;
+    void solve(int curindex, vector<int>& nums, vector<int>& v, vector<vector<int>>& ans){
+        if(curindex>=nums.size())
+            return;
+        v.push_back(nums[curindex]);
         ans.push_back(v);
-        // 2 1 0 :: 0/1 0/1 0/1, where 2, 1, 0 are the bits
-        int siz= pow(2, nums.size());
-        for(int i=0; i<siz; i++)
-        {
-            vector<int> v;
-            for(int j=0; j<nums.size(); j++)
-            {
-                if(((i>>j)&1))
-                    v.push_back(nums[nums.size()-j-1]);
-            }
-            if(find(ans.begin(), ans.end(), v)==ans.end())
-                ans.push_back(v);
-        }
+        solve(curindex+1,nums,v,ans);
+        v.pop_back();
+        solve(curindex+1,nums,v,ans);
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<int> v;
+        vector<vector<int>> ans;
+        ans.push_back(v);
+        solve(0,nums,v,ans);
         return ans;
     }
 };

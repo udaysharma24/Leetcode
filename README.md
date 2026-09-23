@@ -129,6 +129,7 @@ Author - Uday Sharma
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/udaysharma24/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/udaysharma24/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/udaysharma24/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -408,6 +409,7 @@ Author - Uday Sharma
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/udaysharma24/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/udaysharma24/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -606,6 +608,7 @@ Author - Uday Sharma
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaysharma24/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/udaysharma24/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/udaysharma24/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/udaysharma24/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -692,6 +695,7 @@ Author - Uday Sharma
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/udaysharma24/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/udaysharma24/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/udaysharma24/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/udaysharma24/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/udaysharma24/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -872,6 +876,7 @@ Author - Uday Sharma
 | [1248-count-number-of-nice-subarrays](https://github.com/udaysharma24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/udaysharma24/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/udaysharma24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-defuse-the-bomb](https://github.com/udaysharma24/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |

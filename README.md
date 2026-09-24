@@ -637,6 +637,7 @@ Author - Uday Sharma
 | [1389-create-target-array-in-the-given-order](https://github.com/udaysharma24/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/udaysharma24/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/udaysharma24/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/udaysharma24/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -821,6 +822,7 @@ Author - Uday Sharma
 | [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/udaysharma24/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |

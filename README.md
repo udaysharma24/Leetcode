@@ -793,6 +793,7 @@ Author - Uday Sharma
 | [0151-reverse-words-in-a-string](https://github.com/udaysharma24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/udaysharma24/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/udaysharma24/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0388-longest-absolute-file-path](https://github.com/udaysharma24/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/udaysharma24/Leetcode/tree/master/0394-decode-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/udaysharma24/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -853,6 +854,7 @@ Author - Uday Sharma
 | [0225-implement-stack-using-queues](https://github.com/udaysharma24/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udaysharma24/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0388-longest-absolute-file-path](https://github.com/udaysharma24/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/udaysharma24/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -1043,6 +1045,7 @@ Author - Uday Sharma
 | [0207-course-schedule](https://github.com/udaysharma24/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/udaysharma24/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/udaysharma24/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/udaysharma24/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0547-number-of-provinces](https://github.com/udaysharma24/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/udaysharma24/Leetcode/tree/master/0743-network-delay-time) |

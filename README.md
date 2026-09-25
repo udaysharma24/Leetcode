@@ -132,6 +132,7 @@ Author - Uday Sharma
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udaysharma24/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/udaysharma24/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/udaysharma24/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/udaysharma24/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
@@ -477,6 +478,7 @@ Author - Uday Sharma
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/udaysharma24/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaysharma24/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/udaysharma24/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/udaysharma24/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/udaysharma24/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -614,6 +616,7 @@ Author - Uday Sharma
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaysharma24/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/udaysharma24/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/udaysharma24/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/udaysharma24/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |

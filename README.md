@@ -59,6 +59,7 @@ Author - Uday Sharma
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/udaysharma24/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/udaysharma24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -335,6 +336,7 @@ Author - Uday Sharma
 | [0131-palindrome-partitioning](https://github.com/udaysharma24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/udaysharma24/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/udaysharma24/Leetcode/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/udaysharma24/Leetcode/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0392-is-subsequence) |
@@ -602,6 +604,7 @@ Author - Uday Sharma
 | [0240-search-a-2d-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/udaysharma24/Leetcode/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/udaysharma24/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/udaysharma24/Leetcode/tree/master/0493-reverse-pairs) |
@@ -1256,4 +1259,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/udaysharma24/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

@@ -576,6 +576,7 @@ Author - Uday Sharma
 | [0455-assign-cookies](https://github.com/udaysharma24/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/udaysharma24/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/udaysharma24/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/udaysharma24/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0881-boats-to-save-people](https://github.com/udaysharma24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/udaysharma24/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/udaysharma24/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -819,6 +820,7 @@ Author - Uday Sharma
 | [0680-valid-palindrome-ii](https://github.com/udaysharma24/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/udaysharma24/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/udaysharma24/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0848-shifting-letters](https://github.com/udaysharma24/Leetcode/tree/master/0848-shifting-letters) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0925-long-pressed-name](https://github.com/udaysharma24/Leetcode/tree/master/0925-long-pressed-name) |

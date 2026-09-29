@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solve(int sindex, vector<int>& nums, vector<int>& v, vector<vector<int>>& ans, vector<bool>& visited){
+    void solve(vector<int>& nums, vector<int>& v, vector<vector<int>>& ans, vector<bool>& visited){
         if(v.size()==nums.size()){
             ans.push_back(v);
             return;
@@ -9,7 +9,7 @@ public:
             if(!visited[i]){
                 v.push_back(nums[i]);
                 visited[i]=true;
-                solve(sindex+1,nums,v,ans,visited);
+                solve(nums,v,ans,visited);
                 v.pop_back();
                 visited[i]=false;
             }
@@ -19,7 +19,7 @@ public:
         vector<int> v;
         vector<vector<int>> ans;
         vector<bool> visited(nums.size(),false);
-        solve(0,nums,v,ans,visited);
+        solve(nums,v,ans,visited);
         return ans;
     }
 };

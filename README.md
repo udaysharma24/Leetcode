@@ -182,6 +182,7 @@ Author - Uday Sharma
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3200-maximum-height-of-a-triangle](https://github.com/udaysharma24/Leetcode/tree/master/3200-maximum-height-of-a-triangle) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaysharma24/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/udaysharma24/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/udaysharma24/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -497,6 +498,7 @@ Author - Uday Sharma
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/udaysharma24/Leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/udaysharma24/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/udaysharma24/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3536-maximum-product-of-two-digits](https://github.com/udaysharma24/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
@@ -781,6 +783,7 @@ Author - Uday Sharma
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/udaysharma24/Leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/udaysharma24/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/udaysharma24/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |

@@ -198,6 +198,7 @@ Author - Uday Sharma
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udaysharma24/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3582-find-indices-of-stable-mountains](https://github.com/udaysharma24/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/udaysharma24/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/udaysharma24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -696,6 +697,7 @@ Author - Uday Sharma
 | [2965-find-missing-and-repeated-values](https://github.com/udaysharma24/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Prefix Sum
@@ -1038,6 +1040,7 @@ Author - Uday Sharma
 | [3310-remove-methods-from-project](https://github.com/udaysharma24/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3905-multi-source-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Brainteaser
@@ -1098,6 +1101,7 @@ Author - Uday Sharma
 | [2685-count-the-number-of-complete-components](https://github.com/udaysharma24/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/udaysharma24/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1142,6 +1146,7 @@ Author - Uday Sharma
 | [2685-count-the-number-of-complete-components](https://github.com/udaysharma24/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/udaysharma24/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |

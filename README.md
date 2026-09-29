@@ -137,6 +137,7 @@ Author - Uday Sharma
 | [1646-kth-missing-positive-number](https://github.com/udaysharma24/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/udaysharma24/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
+| [1681-minimum-incompatibility](https://github.com/udaysharma24/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/udaysharma24/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/udaysharma24/Leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
@@ -301,6 +302,7 @@ Author - Uday Sharma
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/udaysharma24/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1681-minimum-incompatibility](https://github.com/udaysharma24/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1829-maximum-xor-for-each-query](https://github.com/udaysharma24/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/udaysharma24/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2429-minimize-xor](https://github.com/udaysharma24/Leetcode/tree/master/2429-minimize-xor) |
@@ -369,6 +371,7 @@ Author - Uday Sharma
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/udaysharma24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/udaysharma24/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/udaysharma24/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1681-minimum-incompatibility](https://github.com/udaysharma24/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/udaysharma24/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/udaysharma24/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
@@ -425,6 +428,7 @@ Author - Uday Sharma
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/udaysharma24/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/udaysharma24/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1681-minimum-incompatibility](https://github.com/udaysharma24/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udaysharma24/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1235,6 +1239,7 @@ Author - Uday Sharma
 ## Bitmask
 |  |
 | ------- |
+| [1681-minimum-incompatibility](https://github.com/udaysharma24/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Concurrency
 |  |

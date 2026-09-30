@@ -161,6 +161,7 @@ Author - Uday Sharma
 | [2248-intersection-of-multiple-arrays](https://github.com/udaysharma24/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/udaysharma24/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
@@ -308,6 +309,7 @@ Author - Uday Sharma
 | [1829-maximum-xor-for-each-query](https://github.com/udaysharma24/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/udaysharma24/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2429-minimize-xor](https://github.com/udaysharma24/Leetcode/tree/master/2429-minimize-xor) |
+| [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/udaysharma24/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -734,6 +736,7 @@ Author - Uday Sharma
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/udaysharma24/Leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1829-maximum-xor-for-each-query](https://github.com/udaysharma24/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
+| [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/udaysharma24/Leetcode/tree/master/3714-longest-balanced-substring-ii) |

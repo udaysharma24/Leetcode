@@ -203,6 +203,7 @@ Author - Uday Sharma
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udaysharma24/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3582-find-indices-of-stable-mountains](https://github.com/udaysharma24/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3583-count-special-triplets](https://github.com/udaysharma24/Leetcode/tree/master/3583-count-special-triplets) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/udaysharma24/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -459,6 +460,7 @@ Author - Uday Sharma
 | [3483-unique-3-digit-even-numbers](https://github.com/udaysharma24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3583-count-special-triplets](https://github.com/udaysharma24/Leetcode/tree/master/3583-count-special-triplets) |
 | [3714-longest-balanced-substring-ii](https://github.com/udaysharma24/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/udaysharma24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/udaysharma24/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -536,6 +538,7 @@ Author - Uday Sharma
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3583-count-special-triplets](https://github.com/udaysharma24/Leetcode/tree/master/3583-count-special-triplets) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/udaysharma24/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/udaysharma24/Leetcode/tree/master/3913-sort-vowels-by-frequency) |

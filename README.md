@@ -80,6 +80,7 @@ Author - Uday Sharma
 | [0594-longest-harmonious-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/udaysharma24/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaysharma24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0654-maximum-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0667-beautiful-arrangement-ii](https://github.com/udaysharma24/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0697-degree-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
@@ -329,6 +330,7 @@ Author - Uday Sharma
 | [0240-search-a-2d-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/udaysharma24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/udaysharma24/Leetcode/tree/master/0493-reverse-pairs) |
+| [0654-maximum-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -905,6 +907,7 @@ Author - Uday Sharma
 | [0394-decode-string](https://github.com/udaysharma24/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -1082,6 +1085,7 @@ Author - Uday Sharma
 | [0102-binary-tree-level-order-traversal](https://github.com/udaysharma24/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/udaysharma24/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/udaysharma24/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0654-maximum-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/udaysharma24/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0965-univalued-binary-tree) |
@@ -1173,6 +1177,7 @@ Author - Uday Sharma
 | ------- |
 | [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
@@ -1192,6 +1197,7 @@ Author - Uday Sharma
 | [0102-binary-tree-level-order-traversal](https://github.com/udaysharma24/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/udaysharma24/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/udaysharma24/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0654-maximum-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/udaysharma24/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0965-univalued-binary-tree) |
@@ -1307,4 +1313,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->

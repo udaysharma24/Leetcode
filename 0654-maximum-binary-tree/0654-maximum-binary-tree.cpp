@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void maxbtree(TreeNode* root, vector<int> nums){
+    void maxbtree(TreeNode* root, vector<int>& nums){
         if(nums.empty())
             return ;
         int maxval=*max_element(nums.begin(),nums.end());

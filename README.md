@@ -163,6 +163,7 @@ Author - Uday Sharma
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/udaysharma24/Leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2401-longest-nice-subarray](https://github.com/udaysharma24/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/udaysharma24/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -313,6 +314,7 @@ Author - Uday Sharma
 | [1829-maximum-xor-for-each-query](https://github.com/udaysharma24/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/udaysharma24/Leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/udaysharma24/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2401-longest-nice-subarray](https://github.com/udaysharma24/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2429-minimize-xor](https://github.com/udaysharma24/Leetcode/tree/master/2429-minimize-xor) |
 | [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/udaysharma24/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -938,6 +940,7 @@ Author - Uday Sharma
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-defuse-the-bomb](https://github.com/udaysharma24/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
+| [2401-longest-nice-subarray](https://github.com/udaysharma24/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/udaysharma24/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udaysharma24/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

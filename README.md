@@ -48,6 +48,7 @@ Author - Uday Sharma
 | [0162-find-peak-element](https://github.com/udaysharma24/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaysharma24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/udaysharma24/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/udaysharma24/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/udaysharma24/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/udaysharma24/Leetcode/tree/master/0204-count-primes) |
@@ -486,6 +487,7 @@ Author - Uday Sharma
 | [0088-merge-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/udaysharma24/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/udaysharma24/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/udaysharma24/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -781,6 +783,7 @@ Author - Uday Sharma
 | ------- |
 | [0011-container-with-most-water](https://github.com/udaysharma24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/udaysharma24/Leetcode/tree/master/0044-wildcard-matching) |
+| [0179-largest-number](https://github.com/udaysharma24/Leetcode/tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/udaysharma24/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/udaysharma24/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -837,6 +840,7 @@ Author - Uday Sharma
 | [0097-interleaving-string](https://github.com/udaysharma24/Leetcode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/udaysharma24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/udaysharma24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/udaysharma24/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/udaysharma24/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/udaysharma24/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0388-longest-absolute-file-path](https://github.com/udaysharma24/Leetcode/tree/master/0388-longest-absolute-file-path) |

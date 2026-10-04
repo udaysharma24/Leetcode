@@ -110,6 +110,7 @@ Author - Uday Sharma
 | [1030-matrix-cells-in-distance-order](https://github.com/udaysharma24/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1035-uncrossed-lines](https://github.com/udaysharma24/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1046-max-consecutive-ones-iii](https://github.com/udaysharma24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/udaysharma24/Leetcode/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/udaysharma24/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/udaysharma24/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
@@ -503,6 +504,7 @@ Author - Uday Sharma
 | [0922-sort-array-by-parity-ii](https://github.com/udaysharma24/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/udaysharma24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/udaysharma24/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1051-height-checker](https://github.com/udaysharma24/Leetcode/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/udaysharma24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -1327,4 +1329,12 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/udaysharma24/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/udaysharma24/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

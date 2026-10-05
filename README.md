@@ -192,6 +192,7 @@ Author - Uday Sharma
 | [3194-find-words-containing-character](https://github.com/udaysharma24/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3200-maximum-height-of-a-triangle](https://github.com/udaysharma24/Leetcode/tree/master/3200-maximum-height-of-a-triangle) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaysharma24/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/udaysharma24/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/udaysharma24/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/udaysharma24/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -283,6 +284,7 @@ Author - Uday Sharma
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/udaysharma24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/udaysharma24/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/udaysharma24/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udaysharma24/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udaysharma24/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -465,6 +467,7 @@ Author - Uday Sharma
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/udaysharma24/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udaysharma24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/udaysharma24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |

@@ -230,6 +230,7 @@ Author - Uday Sharma
 | [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/udaysharma24/Leetcode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/udaysharma24/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Math
 |  |
 | ------- |
@@ -404,6 +405,7 @@ Author - Uday Sharma
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/udaysharma24/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Hash Table
 |  |
 | ------- |
@@ -773,6 +775,7 @@ Author - Uday Sharma
 | [3904-smallest-stable-index-ii](https://github.com/udaysharma24/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/udaysharma24/Leetcode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/udaysharma24/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Binary Indexed Tree
 |  |
 | ------- |

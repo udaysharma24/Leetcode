@@ -189,6 +189,7 @@ Author - Uday Sharma
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/udaysharma24/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/udaysharma24/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/udaysharma24/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udaysharma24/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/udaysharma24/Leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
@@ -287,6 +288,7 @@ Author - Uday Sharma
 | [2965-find-missing-and-repeated-values](https://github.com/udaysharma24/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/udaysharma24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/udaysharma24/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3099-harshad-number](https://github.com/udaysharma24/Leetcode/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/udaysharma24/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/udaysharma24/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -1274,6 +1276,7 @@ Author - Uday Sharma
 | [0223-rectangle-area](https://github.com/udaysharma24/Leetcode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/udaysharma24/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/udaysharma24/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/udaysharma24/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Minimax
 |  |
 | ------- |

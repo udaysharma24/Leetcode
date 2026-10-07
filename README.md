@@ -71,6 +71,7 @@ Author - Uday Sharma
 | [0455-assign-cookies](https://github.com/udaysharma24/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/udaysharma24/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/udaysharma24/Leetcode/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/udaysharma24/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -315,6 +316,7 @@ Author - Uday Sharma
 | [0231-power-of-two](https://github.com/udaysharma24/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaysharma24/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/udaysharma24/Leetcode/tree/master/0338-counting-bits) |
+| [0491-non-decreasing-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/udaysharma24/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -428,6 +430,7 @@ Author - Uday Sharma
 | [0347-top-k-frequent-elements](https://github.com/udaysharma24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/udaysharma24/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0491-non-decreasing-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/udaysharma24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/udaysharma24/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/udaysharma24/Leetcode/tree/master/0525-contiguous-array) |
@@ -1038,6 +1041,7 @@ Author - Uday Sharma
 | [0090-subsets-ii](https://github.com/udaysharma24/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/udaysharma24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/udaysharma24/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/udaysharma24/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |

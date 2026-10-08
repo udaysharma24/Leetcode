@@ -1084,6 +1084,7 @@ Author - Uday Sharma
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/udaysharma24/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/udaysharma24/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/udaysharma24/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/udaysharma24/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -1127,6 +1128,7 @@ Author - Uday Sharma
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/udaysharma24/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/udaysharma24/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/udaysharma24/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/udaysharma24/Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -1146,6 +1148,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0079-word-search](https://github.com/udaysharma24/Leetcode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/udaysharma24/Leetcode/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/udaysharma24/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/udaysharma24/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/udaysharma24/Leetcode/tree/master/0207-course-schedule) |
@@ -1244,6 +1247,7 @@ Author - Uday Sharma
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/udaysharma24/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/udaysharma24/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/udaysharma24/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/udaysharma24/Leetcode/tree/master/0404-sum-of-left-leaves) |

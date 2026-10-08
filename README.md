@@ -883,6 +883,7 @@ Author - Uday Sharma
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/udaysharma24/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0925-long-pressed-name](https://github.com/udaysharma24/Leetcode/tree/master/0925-long-pressed-name) |
 | [0984-string-without-aaa-or-bbb](https://github.com/udaysharma24/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
+| [1021-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/udaysharma24/Leetcode/tree/master/1023-camelcase-matching) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/udaysharma24/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -944,6 +945,7 @@ Author - Uday Sharma
 | [0678-valid-parenthesis-string](https://github.com/udaysharma24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1258,6 +1260,7 @@ Author - Uday Sharma
 | [0020-valid-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/udaysharma24/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaysharma24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

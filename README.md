@@ -63,6 +63,7 @@ Author - Uday Sharma
 | [0275-h-index-ii](https://github.com/udaysharma24/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/udaysharma24/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/udaysharma24/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/udaysharma24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/udaysharma24/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -756,6 +757,7 @@ Author - Uday Sharma
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/udaysharma24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/udaysharma24/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/udaysharma24/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/udaysharma24/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/udaysharma24/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/udaysharma24/Leetcode/tree/master/0525-contiguous-array) |
@@ -1040,6 +1042,7 @@ Author - Uday Sharma
 | [0208-implement-trie-prefix-tree](https://github.com/udaysharma24/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/udaysharma24/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udaysharma24/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/udaysharma24/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Backtracking
 |  |
 | ------- |

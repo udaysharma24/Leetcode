@@ -168,6 +168,7 @@ Author - Uday Sharma
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-intersection-of-multiple-arrays](https://github.com/udaysharma24/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2256-minimum-average-difference](https://github.com/udaysharma24/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaysharma24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/udaysharma24/Leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -782,6 +783,7 @@ Author - Uday Sharma
 | [1829-maximum-xor-for-each-query](https://github.com/udaysharma24/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2256-minimum-average-difference](https://github.com/udaysharma24/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2439-minimize-maximum-of-array](https://github.com/udaysharma24/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |

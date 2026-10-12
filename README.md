@@ -181,6 +181,7 @@ Author - Uday Sharma
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/udaysharma24/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2643-row-with-maximum-ones](https://github.com/udaysharma24/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/udaysharma24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/udaysharma24/Leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/udaysharma24/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -1070,6 +1071,7 @@ Author - Uday Sharma
 | [0869-reordered-power-of-2](https://github.com/udaysharma24/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0970-powerful-integers](https://github.com/udaysharma24/Leetcode/tree/master/0970-powerful-integers) |
 | [1291-sequential-digits](https://github.com/udaysharma24/Leetcode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/udaysharma24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/udaysharma24/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3200-maximum-height-of-a-triangle](https://github.com/udaysharma24/Leetcode/tree/master/3200-maximum-height-of-a-triangle) |

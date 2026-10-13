@@ -223,6 +223,7 @@ Author - Uday Sharma
 | [3701-compute-alternating-sum](https://github.com/udaysharma24/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/udaysharma24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/udaysharma24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/udaysharma24/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/udaysharma24/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -552,6 +553,7 @@ Author - Uday Sharma
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/udaysharma24/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/udaysharma24/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3536-maximum-product-of-two-digits](https://github.com/udaysharma24/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/udaysharma24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/udaysharma24/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -853,6 +855,7 @@ Author - Uday Sharma
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/udaysharma24/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/udaysharma24/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/udaysharma24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/udaysharma24/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |

@@ -314,6 +314,7 @@ Author - Uday Sharma
 | [3870-count-commas-in-range](https://github.com/udaysharma24/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/udaysharma24/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/udaysharma24/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/udaysharma24/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/udaysharma24/Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Bit Manipulation
 |  |
@@ -1096,6 +1097,7 @@ Author - Uday Sharma
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/udaysharma24/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/udaysharma24/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Breadth-First Search
 |  |
 | ------- |

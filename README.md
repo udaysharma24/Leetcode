@@ -341,6 +341,7 @@ Author - Uday Sharma
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/udaysharma24/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/udaysharma24/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
@@ -417,6 +418,7 @@ Author - Uday Sharma
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/udaysharma24/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/udaysharma24/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Hash Table
 |  |
@@ -935,6 +937,7 @@ Author - Uday Sharma
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/udaysharma24/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/udaysharma24/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/udaysharma24/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3714-longest-balanced-substring-ii](https://github.com/udaysharma24/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/udaysharma24/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3803-count-residue-prefixes](https://github.com/udaysharma24/Leetcode/tree/master/3803-count-residue-prefixes) |
@@ -1222,6 +1225,7 @@ Author - Uday Sharma
 | [2685-count-the-number-of-complete-components](https://github.com/udaysharma24/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/udaysharma24/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/udaysharma24/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -1333,6 +1337,7 @@ Author - Uday Sharma
 | ------- |
 | [1681-minimum-incompatibility](https://github.com/udaysharma24/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/udaysharma24/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Concurrency
 |  |
 | ------- |

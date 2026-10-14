@@ -204,6 +204,7 @@ Author - Uday Sharma
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/udaysharma24/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/udaysharma24/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/udaysharma24/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
@@ -490,6 +491,7 @@ Author - Uday Sharma
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/udaysharma24/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udaysharma24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/udaysharma24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1000,6 +1002,7 @@ Author - Uday Sharma
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udaysharma24/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
@@ -1208,6 +1211,7 @@ Author - Uday Sharma
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaysharma24/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Graph Theory
 |  |
 | ------- |

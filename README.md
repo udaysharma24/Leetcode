@@ -162,6 +162,7 @@ Author - Uday Sharma
 | [1929-concatenation-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/udaysharma24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysharma24/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -544,6 +545,7 @@ Author - Uday Sharma
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/udaysharma24/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/udaysharma24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/udaysharma24/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/udaysharma24/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaysharma24/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
@@ -693,6 +695,7 @@ Author - Uday Sharma
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/udaysharma24/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/udaysharma24/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/udaysharma24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysharma24/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/udaysharma24/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |

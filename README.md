@@ -222,6 +222,7 @@ Author - Uday Sharma
 | [3582-find-indices-of-stable-mountains](https://github.com/udaysharma24/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3583-count-special-triplets](https://github.com/udaysharma24/Leetcode/tree/master/3583-count-special-triplets) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udaysharma24/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3681-maximum-xor-of-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/3681-maximum-xor-of-subsequences) |
 | [3701-compute-alternating-sum](https://github.com/udaysharma24/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/udaysharma24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -310,6 +311,7 @@ Author - Uday Sharma
 | [3560-find-minimum-log-transportation-cost](https://github.com/udaysharma24/Leetcode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/udaysharma24/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/udaysharma24/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3681-maximum-xor-of-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/3681-maximum-xor-of-subsequences) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/udaysharma24/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/udaysharma24/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -346,6 +348,7 @@ Author - Uday Sharma
 | [3513-number-of-unique-xor-triplets-i](https://github.com/udaysharma24/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udaysharma24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/udaysharma24/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3681-maximum-xor-of-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/3681-maximum-xor-of-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
@@ -861,6 +864,7 @@ Author - Uday Sharma
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/udaysharma24/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/udaysharma24/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3681-maximum-xor-of-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/3681-maximum-xor-of-subsequences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/udaysharma24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/udaysharma24/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |

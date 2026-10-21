@@ -1344,6 +1344,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/udaysharma24/Leetcode/tree/master/0182-duplicate-emails) |
+| [0596-classes-with-at-least-5-students](https://github.com/udaysharma24/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/udaysharma24/Leetcode/tree/master/0619-biggest-single-number) |
 | [1484-group-sold-products-by-the-date](https://github.com/udaysharma24/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1873-calculate-special-bonus](https://github.com/udaysharma24/Leetcode/tree/master/1873-calculate-special-bonus) |

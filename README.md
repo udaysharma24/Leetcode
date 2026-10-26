@@ -244,6 +244,7 @@ Author - Uday Sharma
 | [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/udaysharma24/Leetcode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4045-count-robot-groups](https://github.com/udaysharma24/Leetcode/tree/master/4045-count-robot-groups) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/udaysharma24/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Math
 |  |
@@ -990,6 +991,7 @@ Author - Uday Sharma
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaysharma24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/udaysharma24/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [4045-count-robot-groups](https://github.com/udaysharma24/Leetcode/tree/master/4045-count-robot-groups) |
 ## Queue
 |  |
 | ------- |
@@ -1274,6 +1276,7 @@ Author - Uday Sharma
 | [0654-maximum-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/udaysharma24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [4045-count-robot-groups](https://github.com/udaysharma24/Leetcode/tree/master/4045-count-robot-groups) |
 ## String Matching
 |  |
 | ------- |

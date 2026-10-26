@@ -161,6 +161,7 @@ Author - Uday Sharma
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/udaysharma24/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/udaysharma24/Leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/udaysharma24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -418,6 +419,7 @@ Author - Uday Sharma
 | [1681-minimum-incompatibility](https://github.com/udaysharma24/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/udaysharma24/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/udaysharma24/Leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/udaysharma24/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2439-minimize-maximum-of-array](https://github.com/udaysharma24/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -800,6 +802,7 @@ Author - Uday Sharma
 | [1829-maximum-xor-for-each-query](https://github.com/udaysharma24/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/udaysharma24/Leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2256-minimum-average-difference](https://github.com/udaysharma24/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2439-minimize-maximum-of-array](https://github.com/udaysharma24/Leetcode/tree/master/2439-minimize-maximum-of-array) |

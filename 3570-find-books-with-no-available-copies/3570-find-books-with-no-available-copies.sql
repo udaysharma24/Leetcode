@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select library_books.book_id,title,author,genre,publication_year,count(borrowing_records.record_id) as current_borrowers from library_books join borrowing_records on library_books.book_id=borrowing_records.book_id where return_date is null group by borrowing_records.book_id having max(library_books.total_copies)=count(borrowing_records.book_id) order by count(library_books.book_id) desc, title asc

@@ -197,6 +197,7 @@ Author - Uday Sharma
 | [2965-find-missing-and-repeated-values](https://github.com/udaysharma24/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/udaysharma24/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/udaysharma24/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/udaysharma24/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/udaysharma24/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/udaysharma24/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -498,6 +499,7 @@ Author - Uday Sharma
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/udaysharma24/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/udaysharma24/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/udaysharma24/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -566,6 +568,7 @@ Author - Uday Sharma
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/udaysharma24/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/udaysharma24/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/udaysharma24/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/udaysharma24/Leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/udaysharma24/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
@@ -592,6 +595,7 @@ Author - Uday Sharma
 | [2287-rearrange-characters-to-make-target-string](https://github.com/udaysharma24/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udaysharma24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/udaysharma24/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/udaysharma24/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/udaysharma24/Leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |

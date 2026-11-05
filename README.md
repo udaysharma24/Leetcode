@@ -429,6 +429,7 @@ Author - Uday Sharma
 | [2719-count-of-integers](https://github.com/udaysharma24/Leetcode/tree/master/2719-count-of-integers) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/udaysharma24/Leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/udaysharma24/Leetcode/tree/master/2867-count-valid-paths-in-a-tree) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/udaysharma24/Leetcode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaysharma24/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -953,6 +954,7 @@ Author - Uday Sharma
 | [2375-construct-smallest-number-from-di-string](https://github.com/udaysharma24/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/udaysharma24/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2719-count-of-integers](https://github.com/udaysharma24/Leetcode/tree/master/2719-count-of-integers) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/udaysharma24/Leetcode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/udaysharma24/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/udaysharma24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

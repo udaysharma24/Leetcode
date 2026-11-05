@@ -234,6 +234,7 @@ Author - Uday Sharma
 | [3727-maximum-alternating-sum-of-squares](https://github.com/udaysharma24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/udaysharma24/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3731-find-missing-elements](https://github.com/udaysharma24/Leetcode/tree/master/3731-find-missing-elements) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/udaysharma24/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/udaysharma24/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -358,6 +359,7 @@ Author - Uday Sharma
 | [3615-longest-palindromic-path-in-graph](https://github.com/udaysharma24/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3681-maximum-xor-of-subsequences](https://github.com/udaysharma24/Leetcode/tree/master/3681-maximum-xor-of-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udaysharma24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/udaysharma24/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -671,6 +673,7 @@ Author - Uday Sharma
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/udaysharma24/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/udaysharma24/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udaysharma24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/udaysharma24/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udaysharma24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4026-maximum-gap-between-stations](https://github.com/udaysharma24/Leetcode/tree/master/4026-maximum-gap-between-stations) |
 ## Binary Search
@@ -719,6 +722,7 @@ Author - Uday Sharma
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/udaysharma24/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/udaysharma24/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/udaysharma24/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/udaysharma24/Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/udaysharma24/Leetcode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Simulation

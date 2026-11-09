@@ -2,7 +2,7 @@ class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
         vector<int> ans(m+n);
-        nums1.reserve(m+n);
+        
         int l=0, r=0;
         int index=0;
         while(l<m && r<n){

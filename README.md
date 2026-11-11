@@ -1458,4 +1458,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/udaysharma24/Leetcode/tree/master/1051-height-checker) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udaysharma24/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

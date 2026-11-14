@@ -219,6 +219,7 @@ Author - Uday Sharma
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/udaysharma24/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/udaysharma24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/udaysharma24/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/udaysharma24/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3429-special-array-i](https://github.com/udaysharma24/Leetcode/tree/master/3429-special-array-i) |
@@ -840,6 +841,7 @@ Author - Uday Sharma
 | [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2439-minimize-maximum-of-array](https://github.com/udaysharma24/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [3364-minimum-positive-sum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/udaysharma24/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/udaysharma24/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -1057,6 +1059,7 @@ Author - Uday Sharma
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/udaysharma24/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/udaysharma24/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/udaysharma24/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |

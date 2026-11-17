@@ -169,6 +169,7 @@ Author - Uday Sharma
 | [1929-concatenation-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/udaysharma24/Leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udaysharma24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/udaysharma24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -380,6 +381,7 @@ Author - Uday Sharma
 | [0427-construct-quad-tree](https://github.com/udaysharma24/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/udaysharma24/Leetcode/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/udaysharma24/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -576,6 +578,7 @@ Author - Uday Sharma
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/udaysharma24/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1840-maximum-building-height](https://github.com/udaysharma24/Leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/udaysharma24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/udaysharma24/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/udaysharma24/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -972,6 +975,7 @@ Author - Uday Sharma
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [1881-maximum-value-after-insertion](https://github.com/udaysharma24/Leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -1272,6 +1276,7 @@ Author - Uday Sharma
 | [1338-reduce-array-size-to-the-half](https://github.com/udaysharma24/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaysharma24/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/udaysharma24/Leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Graph Theory
@@ -1448,6 +1453,7 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/udaysharma24/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Euclidean Algorithm
 |  |
 | ------- |

@@ -97,6 +97,7 @@ Author - Uday Sharma
 | [0739-daily-temperatures](https://github.com/udaysharma24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaysharma24/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/udaysharma24/Leetcode/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/udaysharma24/Leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/udaysharma24/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0848-shifting-letters](https://github.com/udaysharma24/Leetcode/tree/master/0848-shifting-letters) |
 | [0853-car-fleet](https://github.com/udaysharma24/Leetcode/tree/master/0853-car-fleet) |
@@ -789,6 +790,7 @@ Author - Uday Sharma
 | [0240-search-a-2d-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/udaysharma24/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0733-flood-fill](https://github.com/udaysharma24/Leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/udaysharma24/Leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/udaysharma24/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/udaysharma24/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/udaysharma24/Leetcode/tree/master/1020-number-of-enclaves) |

@@ -256,6 +256,7 @@ Author - Uday Sharma
 | [3925-concatenate-array-with-reverse](https://github.com/udaysharma24/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3926-count-valid-word-occurrences](https://github.com/udaysharma24/Leetcode/tree/master/3926-count-valid-word-occurrences) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/udaysharma24/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/udaysharma24/Leetcode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4045-count-robot-groups](https://github.com/udaysharma24/Leetcode/tree/master/4045-count-robot-groups) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/udaysharma24/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |

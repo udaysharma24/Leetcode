@@ -576,6 +576,7 @@ Author - Uday Sharma
 | [1288-remove-covered-intervals](https://github.com/udaysharma24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/udaysharma24/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/udaysharma24/Leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/udaysharma24/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaysharma24/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -974,6 +975,7 @@ Author - Uday Sharma
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/udaysharma24/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/udaysharma24/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/udaysharma24/Leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaysharma24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/udaysharma24/Leetcode/tree/master/1773-count-items-matching-a-rule) |

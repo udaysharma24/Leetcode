@@ -186,6 +186,7 @@ Author - Uday Sharma
 | [2326-spiral-matrix-iv](https://github.com/udaysharma24/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/udaysharma24/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2401-longest-nice-subarray](https://github.com/udaysharma24/Leetcode/tree/master/2401-longest-nice-subarray) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/udaysharma24/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2439-minimize-maximum-of-array](https://github.com/udaysharma24/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/udaysharma24/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -808,6 +809,7 @@ Author - Uday Sharma
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2326-spiral-matrix-iv](https://github.com/udaysharma24/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/udaysharma24/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/udaysharma24/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2643-row-with-maximum-ones](https://github.com/udaysharma24/Leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -850,6 +852,7 @@ Author - Uday Sharma
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/udaysharma24/Leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/udaysharma24/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2256-minimum-average-difference](https://github.com/udaysharma24/Leetcode/tree/master/2256-minimum-average-difference) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/udaysharma24/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2439-minimize-maximum-of-array](https://github.com/udaysharma24/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2536-increment-submatrices-by-one](https://github.com/udaysharma24/Leetcode/tree/master/2536-increment-submatrices-by-one) |

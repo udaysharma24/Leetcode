@@ -174,6 +174,7 @@ Author - Uday Sharma
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/udaysharma24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/udaysharma24/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysharma24/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/udaysharma24/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/udaysharma24/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -586,6 +587,7 @@ Author - Uday Sharma
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/udaysharma24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/udaysharma24/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/udaysharma24/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2248-intersection-of-multiple-arrays](https://github.com/udaysharma24/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaysharma24/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/udaysharma24/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -846,6 +848,7 @@ Author - Uday Sharma
 | [1871-jump-game-vii](https://github.com/udaysharma24/Leetcode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/udaysharma24/Leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/udaysharma24/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2256-minimum-average-difference](https://github.com/udaysharma24/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2438-range-product-queries-of-powers](https://github.com/udaysharma24/Leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2439-minimize-maximum-of-array](https://github.com/udaysharma24/Leetcode/tree/master/2439-minimize-maximum-of-array) |
@@ -904,6 +907,7 @@ Author - Uday Sharma
 | [1881-maximum-value-after-insertion](https://github.com/udaysharma24/Leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
 | [2032-largest-odd-number-in-string](https://github.com/udaysharma24/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/udaysharma24/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udaysharma24/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaysharma24/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/udaysharma24/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -1155,6 +1159,7 @@ Author - Uday Sharma
 | [0869-reordered-power-of-2](https://github.com/udaysharma24/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0970-powerful-integers](https://github.com/udaysharma24/Leetcode/tree/master/0970-powerful-integers) |
 | [1291-sequential-digits](https://github.com/udaysharma24/Leetcode/tree/master/1291-sequential-digits) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/udaysharma24/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/udaysharma24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/udaysharma24/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3044-most-frequent-prime](https://github.com/udaysharma24/Leetcode/tree/master/3044-most-frequent-prime) |

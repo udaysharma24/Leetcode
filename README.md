@@ -151,6 +151,7 @@ Author - Uday Sharma
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udaysharma24/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/udaysharma24/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/udaysharma24/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/udaysharma24/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -806,6 +807,7 @@ Author - Uday Sharma
 | [1219-path-with-maximum-gold](https://github.com/udaysharma24/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/udaysharma24/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/udaysharma24/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/udaysharma24/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/udaysharma24/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/udaysharma24/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2326-spiral-matrix-iv](https://github.com/udaysharma24/Leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -906,6 +908,7 @@ Author - Uday Sharma
 | [1338-reduce-array-size-to-the-half](https://github.com/udaysharma24/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaysharma24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/udaysharma24/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/udaysharma24/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1881-maximum-value-after-insertion](https://github.com/udaysharma24/Leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [1927-sum-game](https://github.com/udaysharma24/Leetcode/tree/master/1927-sum-game) |
@@ -1507,4 +1510,8 @@ Author - Uday Sharma
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/udaysharma24/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Flow Network
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/udaysharma24/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->

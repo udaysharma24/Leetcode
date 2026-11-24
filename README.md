@@ -102,6 +102,7 @@ Author - Uday Sharma
 | [0848-shifting-letters](https://github.com/udaysharma24/Leetcode/tree/master/0848-shifting-letters) |
 | [0853-car-fleet](https://github.com/udaysharma24/Leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/udaysharma24/Leetcode/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/udaysharma24/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/udaysharma24/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/udaysharma24/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/udaysharma24/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -493,6 +494,7 @@ Author - Uday Sharma
 | [0756-pyramid-transition-matrix](https://github.com/udaysharma24/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/udaysharma24/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/udaysharma24/Leetcode/tree/master/0869-reordered-power-of-2) |
+| [0874-walking-robot-simulation](https://github.com/udaysharma24/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/udaysharma24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/udaysharma24/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0970-powerful-integers](https://github.com/udaysharma24/Leetcode/tree/master/0970-powerful-integers) |
@@ -763,6 +765,7 @@ Author - Uday Sharma
 | [0059-spiral-matrix-ii](https://github.com/udaysharma24/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/udaysharma24/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/udaysharma24/Leetcode/tree/master/0068-text-justification) |
+| [0874-walking-robot-simulation](https://github.com/udaysharma24/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/udaysharma24/Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/udaysharma24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/udaysharma24/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |

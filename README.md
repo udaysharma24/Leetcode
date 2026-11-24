@@ -146,6 +146,7 @@ Author - Uday Sharma
 | [1470-shuffle-the-array](https://github.com/udaysharma24/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/udaysharma24/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaysharma24/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1487-making-file-names-unique](https://github.com/udaysharma24/Leetcode/tree/master/1487-making-file-names-unique) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/udaysharma24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaysharma24/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/udaysharma24/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -507,6 +508,7 @@ Author - Uday Sharma
 | [1386-cinema-seat-allocation](https://github.com/udaysharma24/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/udaysharma24/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/udaysharma24/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1487-making-file-names-unique](https://github.com/udaysharma24/Leetcode/tree/master/1487-making-file-names-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udaysharma24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1681-minimum-incompatibility](https://github.com/udaysharma24/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udaysharma24/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -989,6 +991,7 @@ Author - Uday Sharma
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/udaysharma24/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/udaysharma24/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/udaysharma24/Leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1487-making-file-names-unique](https://github.com/udaysharma24/Leetcode/tree/master/1487-making-file-names-unique) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaysharma24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udaysharma24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/udaysharma24/Leetcode/tree/master/1773-count-items-matching-a-rule) |
